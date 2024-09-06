@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2024-03-06T02:12:54.729Z</updated>
+  <updated>2024-09-06T14:15:54.736Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网站重建，梦想开启</title>
+    <link href="https://www.fomal.cc/posts/c318edab.html"/>
+    <id>https://www.fomal.cc/posts/c318edab.html</id>
+    <published>2024-09-06T14:10:38.000Z</published>
+    <updated>2024-09-06T14:15:54.736Z</updated>
+    
+    <content type="html"><![CDATA[<h1>网站重建，梦想开启</h1><p>熟能生巧</p><p>github 用git访问+chatgpt的回答帮助</p><ol><li>nodejs + nmp  安装+版本匹配<ol><li>删除nmp</li><li>更改下载源</li></ol></li><li>hexo 下载 单独安装配置up项目</li><li></li><li></li></ol><p><img src="../assets/image-20240906221418850.png" alt="image-20240906221418850"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;网站重建，梦想开启&lt;/h1&gt;
+&lt;p&gt;熟能生巧&lt;/p&gt;
+&lt;p&gt;github 用git访问+chatgpt的回答帮助&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;nodejs + nmp  安装+版本匹配
+&lt;ol&gt;
+&lt;li&gt;删除nmp&lt;/li&gt;
+&lt;li&gt;更改下载源&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/l</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title></title>
@@ -422,23 +451,6 @@
     
     
     <summary type="html">不完整骨架数据的的rich激活图卷积网络研究</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>论文理解2用于自监督骨架动作识别的时空遮蔽自动编码器</title>
-    <link href="https://www.fomal.cc/posts/a1a97019.html"/>
-    <id>https://www.fomal.cc/posts/a1a97019.html</id>
-    <published>2023-12-10T13:10:27.000Z</published>
-    <updated>2023-12-10T14:03:16.278Z</updated>
-    
-    <content type="html"><![CDATA[<p>**论文题目：**<strong>SkeletonMAE: Spatial-Temporal Masked Autoencoders for Self-supervised Skeleton Action Recognition.</strong></p><p><strong>论文链接：<a href="https://arxiv.org/pdf/2209.02399.pdf">https://arxiv.org/pdf/2209.02399.pdf</a></strong></p><p><strong>github代码：暂未开源</strong></p><hr><h2 id="一、文章总结">一、文章总结</h2><p>这篇文章是2023年IEEE International Conference on Multimedia &amp; Expo Workshops (ICMEW)上的一篇文章，针对于自监督骨架动作识别，利用未标记的数据，学习更多的可泛化特征来缓解过拟合问题，减少对大量标记训练数据的需求以减少骨架数据标注所造成的的成本浪费。</p><p>文章以[Masked autoencoders are scalable vision learners.2022]文章为出发点提出了一个用于基于骨骼的自监督3D动作识别的时空掩藏自动编码器框架(SkeletonMAE)。在MAE文章提出的掩蔽和重建思想的基础上，提出了一个基于骨架的编码器-解码器transformer结构来重建掩蔽骨架序列。具体来说，针对骨架序列，分别从骨架的关节级和帧级别两方面提出了一种新的掩蔽策略——时空掩蔽策略。这种预训练策略使得编码器（Encoder）输出具有空间和时间依赖性的可泛化骨架特征。对于输入的骨架序列，编码器被微调为动作识别任务。经过大量实验表明，文出的SkeletonMAE方法取得了显著的性能，并且优于目前最先进的方法。</p><h2 id="二、详细介绍">二、详细介绍</h2><h2 id="1-背景">1.背景</h2><p>人体动作识别是计算机视觉领域的一个基本研究课题，旨在理解人类行为并区分不同的动作。随着深度学习和人体姿势估计方法的蓬勃发展，<strong>人类骨骼数据可以被高效提取为一种高级但轻量级的表示，因此引起了对人类行为和动作分析的广泛关注</strong>。因此，基于3D骨骼的动作识别已经成为人体动作识别中的一个重要研究领域。</p><p>大多数最近的方法侧重于使用全监督学习算法来构建它们的框架：基于卷积神经网络（CNN）的方法，基于循环神经网络（RNN）的方法，基于图卷积网络（GCN）的方法以及基于Transformer的方法广泛应用于骨骼动作识别，并取得了非常好的结果。然而，<strong>完全监督的动作识别容易出现过拟合。<strong>此外，它</strong>需要大量的标记训练数据</strong>，这既昂贵又耗时。为了缓解这些问题，在骨骼动作识别中，自监督学习方法越来越盛行，这些方法利用未标记的数据来学习数据表示。<strong>一些自监督方法考虑了骨骼表示学习的预设任务，使用未标记的骨骼数据，例如动作重建和拼图</strong>。然而，这些<strong>基于预设任务的方法侧重于局部特征，如同一帧内的关节相关性和骨骼比例，并未充分探索时间信息</strong>。最近的一些工作<strong>通过构建不同视图下的骨骼序列，通过数据增强和正负对，训练了基于对比学习框架的对比模型</strong>。尽管这些基于对比学习的方法强调了高级上下文信息，但它们严重依赖于用于提取骨骼特征的关节对的数量，并忽略了不同帧之间的关节相关信息。</p><h2 id="2-方案引出">2.方案引出</h2><p>最近，一种名为&quot;Masked Autoencoders (MAE)&quot;的新的自监督学习方法展示出在计算机视觉任务中具有强大的泛化能力，表现出色。<strong>MAE会对输入图像的大部分区域进行遮盖，然后强制模型仅使用未遮盖的部分来重建原始图像。</strong></p><p>然而，由于以下原因，MAE不能直接用于自监督骨骼动作识别：</p><ul><li>MAE使用了视觉变换器（ViT）结构来处理图像输入。<strong>与不包含时间信息的图像不同，人体骨架序列是从包含丰富语义信息的高信息密度视频中提取出来的：在空间层面，关节特征包含了同一帧内不同关节之间的关系；在时间层面，帧特征代表了同一关节在不同帧之间的运动。</strong></li><li>MAE的遮盖策略仅关注空间域。在处理人体骨架序列数据时，需要一种<strong>空间-时间遮盖策略</strong>。</li></ul><p>为了解决这些问题，文章引入了一种名为&quot;SkeletonMAE&quot;的新型骨架自监督学习方法，旨在进行骨架的<strong>空间-时间表示学习</strong>：</p><ol><li><p>遮盖输入序列是从原始骨架序列中生成的，其中包含了关节坐标（空间）信息和帧（时间）信息；</p></li><li><p>借助空间-时间遮盖策略和编码-解码规则，SkeletonMAE通过基于transformer的编码器和解码器处理遮盖序列，从而获得重建序列，其中空间和时间信息得到了很好的处理（文章借助了transformer在长序列数据的空间-时间表示学习中具有巨大潜力）。</p></li></ol><p>SkeletonMAE的框架如图1所示。具体来说，整个SkeletonMAE流程是根据以下原则设计的。在预训练阶段，使用了空间-时间遮盖策略（具有预设的帧遮盖和关节遮盖比率）来遮盖输入骨架序列的部分部分，包括帧级别和关节级别。为了找到最佳的空间-时间表示学习的权衡点，文章讨论了关<strong>节遮盖和帧遮盖比率的作用</strong>，找到了最佳的比率组合。<strong>编码器用于学习可泛化的特征表示</strong>，而<strong>解码器则用于重建丢失的骨架</strong>。由于处理的是骨架序列，文章<strong>使用了专为处理骨架序列而开发的&quot;空间-时间元组变换器（STTFormer）</strong>&quot;作为网络骨干，而不是ViT。在微调阶段，文章仅使用编码器和简单的输出层来预测动作。动作识别结果表明，文章的方法在没有额外数据的情况下胜过了最先进的自监督学习方法。</p><p><img src="../assets/image-20231210211243715.png" alt="image-20231210211243715"></p><p>图1SkeletonMAE的框架图</p><p><strong>总结：</strong> 本段介绍了一种“SkeletonMAE&quot;的新型自监督学习方法，专门用于骨骼动作识别。该方法解决了现有方法的局限性，同时在标准数据集上取得了自监督设置下的最先进性能。</p><h2 id="三、方法详解">三、方法详解</h2><p>这里，首先在第1节<strong>中介绍了骨架mae的初步内容</strong>。然后，在第2节中**，**<strong>设计了一种骨架数据的时空掩蔽策略</strong>。接下来，在第3节中<strong>分析文章的骨骼mae用于动作识别</strong>。最后，在第4节中介绍了<strong>文章的微调过程。</strong></p><h3 id="1-参数">1.参数</h3><p>先介绍下传统的MAE（Masked Autoencoder）模型。MAE采用了一种不对称的编码器和解码器结构。需要注意的是，解码器的结构与编码器不同，<strong>这意味着可以根据需要自定义解码器以构建高效的预训练模型</strong>。具体来说，MAE中的编码器基于ViT（Vision Transformer），但仅处理未掩盖的图像：首先，图像块经线性投影编码，并加上位置嵌入以形成图像令牌，然后这些令牌经过多个Transformer块的处理。仅加载了一小部分未掩盖的令牌（75％的块被掩盖，其余的作为输入）。至于MAE解码器，它根据原始图像块上的位置信息来解码已掩盖的令牌以进行重构。然后，在像素空间中计算了已掩盖和重构令牌之间的均方误差（MSE）。在预训练后，应用具有简单分类头的预训练编码器进行图像分类任务。</p><p>与MAE不同，<strong>MAE在编码器中应用了ViT，而在解码器中应用了Transformer块进行图像重构</strong>，而文章<strong>选择使用STTFormer来构建编码器和解码器</strong>，因为它具有基于骨架的Transformer结构。<strong>与ViT基于没有时间信息的图像块不同，STTFormer是一种基于骨架数据的Transformer，对于处理时空数据具有很大的潜力。<strong>具体而言，STTFormer将骨架数据分成多个元组（不重叠的部分），并提供了名为Spatio-Temporal Tuples Attention（STTA）的自注意模块，用于提取相邻帧之间的多关节表示。然后，在STTA块之后提出了一种名为Inter-Frame Feature Aggregation（IFFA）的特征聚合模块，用于</strong>提高相似动作识别的学习能力</strong>。STTFormer的结构如图1所示。</p><p>**总结：****该部分介绍了STTFormer模型，该模型与MAE不同，采用了骨架数据驱动的Transformer结构，适用于处理骨架数据的时空信息。**STTFormer的结构包括Spatio-Temporal Tuples Attention（STTA）自注意模块和Inter-Frame Feature Aggregation（IFFA）特征聚合模块，有助于提取和集成骨架数据的多关节表示，从而提高相似动作的识别能力。这一部分强调了STTFormer相对于ViT的优势，特别适用于骨架数据的处理。</p><h3 id="2-时空遮蔽策略">2.时空遮蔽策略</h3><p>文章提出了一种时空遮蔽方法，<strong>用于对骨架序列输入的一部分进行遮蔽</strong>，文章的遮蔽策略流程如图2所示。</p><p><img src="../assets/image-20231210211313386.png" alt="image-20231210211313386"></p><p><strong>图2掩码遮蔽策略流程图</strong></p><p>图2显示了文章的帧级遮蔽方法。根据预设的帧遮蔽比率，<strong>随机去除一部分帧并存储它们的索引，然后剩下的帧将通过关节级别的空间遮蔽方法进行处理</strong>。</p><p>如图2所示，在所有输入帧上实施了时空遮蔽方法后，<strong>剩下的帧将通过空间遮蔽策略进行处理</strong>。根据预设的关节遮蔽比率，<strong>会随机地在每个未遮蔽的帧中遮蔽部分关节</strong>。值得注意的是，在这个随机的空间遮蔽方法中，<strong>被遮蔽的关节的索引不是固定的</strong>，这意味着<strong>不同帧中的相同关节可能被遮蔽或不被遮蔽</strong>。这种简单的方法如图3(b)所示。除了这种遮蔽方法，文章<strong>还引入了一个具有固定索引的关节遮蔽策略，如图3©所示</strong>。<strong>不同帧中具有相同索引的关节将根据关节遮蔽比率一起被遮蔽或不被遮蔽</strong>。</p><p>**总结：这一部分描述了作者提出的骨架序列的时空遮蔽方法。**这种方法分为时序遮蔽和空间遮蔽两个阶段。时序遮蔽是在帧级别进行的，随机去除一部分帧。然后，在剩余的帧中，进行空间遮蔽，其中部分关节也会被随机遮蔽。作者还介绍了两种空间遮蔽策略，一种是随机遮蔽关节的策略，另一种是基于固定索引的关节遮蔽策略。这两种策略在后续实验中进行了比较。</p><p><img src="../assets/image-20231210211424249.png" alt="image-20231210211424249"></p><p><strong>图3：两中屏蔽策略的说明。(a)先进行框架掩模，然后在空间层次上对节点进行随机掩模;(b)用随机的指数遮盖关节c*<em>)用固定指数遮盖关节*</em></strong></p><h3 id="3-SkeletonMAE框架结构">3.SkeletonMAE框架结构</h3><p>本节描述了SkeletonMAE的主要组件，例如编码器、解码器、重构序列、损失函数和骨架动作识别的微调流程。流程和SkeletonMAE的结构如图1所示。</p><p>SkeletonMAE编码器：文章的编码器基于STTFormer，<strong>只处理可见的骨架标记</strong>。给定一个骨架序列作为输入，文章分别应用了<strong>帧遮蔽和关节遮蔽方法</strong>。这些在空间和时间上未遮蔽的标记被馈送到<strong>SkeletonMAE编码器，将输入映射到时空嵌入特征</strong>。</p><p>SkeletonMAE解码器：文章的<strong>解码器也采用了STTFormer的结构</strong>。与MAE中的解码器相同，SkeletonMAE解码器中的<strong>时空嵌入特征被处理以重构原始序列</strong>。同时，<strong>为了保留用于重构的位置信息，还引入了位置嵌入。解码器的输出是重构序列，应与未遮蔽的原始序列相同。</strong></p><p>框架重构：文章使用均方误差（MSE）损失来衡量重构的结果。在这种情况下，文章<strong>计算原始骨架序列与重构序列之间的MSE损失</strong>，如下所示：</p><p><img src="../assets/image-20231210211450969.png" alt="image-20231210211450969"></p><p>其中i是帧的索引，N是样本数量，S是输入序列，S∗是重构序列。</p><p>**总结：这一部分描述了SkeletonMAE的架构，包括编码器、解码器和重构方法。**编码器和解码器都基于STTFormer结构，用于处理骨架序列的重构。重构的质量通过均方误差损失来衡量，以衡量原始骨架序列与重构序列之间的差异。</p><h3 id="4-动作识别微调">4.动作识别微调</h3><p>为了评估SkeletonMAE学习骨架表示的能力，文章<strong>加载了从预训练中获得的参数权重</strong>，**用所有的训练数据对模型进行微调，然后使用识别准确度来预测每个动作的标签。**微调的过程如图1(b)所示。与最新的基于对比的自监督骨架动作识别方法不同，<strong>这些方法通过线性评估协议验证模型，文章只关注骨架动作识别任务的端到端微调</strong>。</p><p>总结：这一部分描述了如何评估SkeletonMAE对骨架表示的学习能力。首先，他们使用从预训练中获得的参数权重对模型进行微调，然后使用准确度来评估每个动作的标签预测。与其他方法不同，他们侧重于端到端微调而不是线性评估协议。这是评估SkeletonMAE性能的关键步骤。</p>]]></content>
-    
-    
-    <summary type="html">masked论文阅读</summary>
     
     
     
