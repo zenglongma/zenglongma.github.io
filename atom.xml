@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Fomalhaut🥝</title>
+  <title>Fomalhaut</title>
   
   
-  <link href="https://www.fomal.cc/atom.xml" rel="self"/>
+  <link href="https://github.com/zenglongma/atom.xml" rel="self"/>
   
-  <link href="https://www.fomal.cc/"/>
-  <updated>2024-09-06T14:15:54.736Z</updated>
-  <id>https://www.fomal.cc/</id>
+  <link href="https://github.com/zenglongma/"/>
+  <updated>2024-09-07T14:14:37.406Z</updated>
+  <id>https://github.com/zenglongma/</id>
   
   <author>
     <name>Fomalhaut🥝</name>
@@ -18,27 +18,15 @@
   
   <entry>
     <title>网站重建，梦想开启</title>
-    <link href="https://www.fomal.cc/posts/c318edab.html"/>
-    <id>https://www.fomal.cc/posts/c318edab.html</id>
+    <link href="https://github.com/zenglongma/posts/c318edab.html"/>
+    <id>https://github.com/zenglongma/posts/c318edab.html</id>
     <published>2024-09-06T14:10:38.000Z</published>
-    <updated>2024-09-06T14:15:54.736Z</updated>
+    <updated>2024-09-07T14:14:37.406Z</updated>
     
-    <content type="html"><![CDATA[<h1>网站重建，梦想开启</h1><p>熟能生巧</p><p>github 用git访问+chatgpt的回答帮助</p><ol><li>nodejs + nmp  安装+版本匹配<ol><li>删除nmp</li><li>更改下载源</li></ol></li><li>hexo 下载 单独安装配置up项目</li><li></li><li></li></ol><p><img src="../assets/image-20240906221418850.png" alt="image-20240906221418850"></p>]]></content>
+    <content type="html"><![CDATA[<h1>网站重建，梦想开启</h1><h2 id="博客重启的巴拉巴拉（必备工具）">博客重启的巴拉巴拉（必备工具）</h2><p><a href="https://blog.cuijiacai.com/blog-building/">https://blog.cuijiacai.com/blog-building/</a></p><p><a href="https://www.bilibili.com/video/BV1qD4y1z783/?vd_source=3d5976f4f96ce120bf88891647d386cb">超详细的个人博客搭建教程（无需服务器）- 从原理到实践手把手带你搭建属于自己的个人博客_哔哩哔哩_bilibili</a></p><p><a href="https://www.bilibili.com/video/BV1G84y1B7NH/?spm_id_from=333.788&amp;vd_source=3d5976f4f96ce120bf88891647d386cb">https://www.bilibili.com/video/BV1G84y1B7NH/?spm_id_from=333.788&amp;vd_source=3d5976f4f96ce120bf88891647d386cb</a></p><p><a href="https://www.fomal.cc/posts/e593433d.html">🐖抓到你啦～ (fomal.cc)</a></p><h1>重启操作教程</h1><p>熟能生巧</p><p>github 用git访问+chatgpt的回答帮助</p><ol><li>nodejs + nmp  安装+版本匹配<ol><li>删除nmp</li><li>更改下载源</li></ol></li><li>hexo 下载 单独安装配置up项目</li><li></li><li></li></ol><p><img src="../assets/image-20240906221418850.png" alt="image-20240906221418850"></p><h1>心路历程</h1><blockquote><p>2024年5月3日 gitee的page服务 被关闭，不在对外访问，导致自己的网站无法访问，也不能再继续写笔记和完成自己的博客l</p></blockquote><p>在2024年9.6日 重新为了封装简历，想着哪怕拿出一天的时间，全部花进去，用来把自己的博客后台迁移，从不能访问的gitee 迁移到github</p><p>花了一天的时间，从一开始7:00左右的信心满满，动力十足，到快到10：20左右，【在这期间成功的把之前的GitHub不能用git访问的问题解决了这个问题困扰了好久】然后跟我家美女一起改简历，搬到小教室里边，用自己的手机开热点，直到11：40左右，成功的能够跟之前一样，用hexo d 和hexo -g 完成数据往远端传输，搜着网页上说问题是网络不好</p><p>而且在用hexo d 传输的时候，蹦出一个网页，用来验证github的账号登录情况，这时候就知道能够完成数据传输了</p><p>当时是开着热点在小教室里，就没去吃饭，一直开着热点，给手机充电，期望能够成功，幸好最后成功传输上去了！！！</p><h4 id="但是页面确实不能正常展示，估计是渲染主题的问题，也有可能是nodejs-和hexo-版本问题，导致hexo下载主题失败">但是页面确实不能正常展示，估计是渲染主题的问题，也有可能是nodejs 和hexo 版本问题，导致hexo下载主题失败</h4><p>npm  与 node 匹配</p><p>下载使用的node.js 是12.19.0版本</p><h6 id="nodejs和npm版本不匹配：ERROR-npm-is-known-not-to-run-on-Node-js-v10-16-2">nodejs和npm版本不匹配：ERROR: npm is known not to run on Node.js v10.16.2</h6><p><a href="https://blog.csdn.net/qq_41992943/article/details/124925758">nodejs和npm版本不匹配：ERROR: npm is known not to run on Node.js v10.16.2-CSDN博客</a></p><p><a href="https://blog.csdn.net/qq_45056216/article/details/101163126">关于node js和 npm 版本不匹配的情况_linux中npm版本个nodejs版本不匹配解决方法-CSDN博客</a></p><p>删除node 重装</p><p>node 12.19.0 重装</p><p>更改 npd 源头</p><h6 id="npm报错：request-to-https-registry-npm-taobao-org-failed-reason-certificate-has-expired">npm报错：request to <a href="https://registry.npm.taobao.org">https://registry.npm.taobao.org</a> failed, reason certificate has expired</h6><p><a href="https://blog.csdn.net/maoge_666/article/details/136038003">npm报错：request to https://registry.npm.taobao.org failed, reason certificate has expired-CSDN博客</a></p><p>hexo  重装——直接在新文件夹中安装</p><h6 id="win10系统使用npm安装hexo失败">win10系统使用npm安装hexo失败!</h6><p><a href="https://github.com/hexojs/hexo/issues/2741">win10系统使用npm安装hexo失败! · Issue #2741 · hexojs/hexo (github.com)</a></p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">npm <span class="selector-tag">i</span> -<span class="selector-tag">g</span> hexo-cli    </span><br><span class="line">sudo npm install gulp-cli -<span class="selector-tag">g</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><p><a href="https://github.com/hexojs/hexo-cli/issues/23">hexo-cli 安装后失败 ·问题 #23 ·hexojs/hexo-cli 命令 (github.com)</a></p><p>git上传文件和文件夹</p><h6 id="Github如何上传项目-超详细小白教程">Github如何上传项目(超详细小白教程)</h6><p><a href="https://blog.csdn.net/KevinRay_0854/article/details/140408003">Github如何上传项目(超详细小白教程)_github上传项目-CSDN博客</a></p><p>[git基本操作：将指定文件夹内容或代码文件推送到GitHub中的基本步骤_github推送文件夹视图工具-CSDN博客](<a href="https://blog.csdn.net/qq_40413898/article/details/104287509#:~:text=git%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%EF%BC%9A%E5%B0%86%E6%8C%87%E5%AE%9A%E6%96%87%E4%BB%B6%E5%A4%B9%E5%86%85%E5%AE%B9%E6%88%96%E4%BB%A3%E7%A0%81%E6%96%87%E4%BB%B6%E6%8E%A8%E9%80%81%E5%88%B0GitHub%E4%B8%AD%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%AD%A5%E9%AA%A4">https://blog.csdn.net/qq_40413898/article/details/104287509#:~:text=git基本操作：将指定文件夹内容或代码文件推送到GitHub中的基本步骤</a> 1 1、在GitHub中新建一个仓库 在创建仓库是，一些配置说明如下： Repository name%3A 仓库名称 Description,. … 5 5、最终结果 将本地仓库与远程仓库连接 再次要推送文件时，需要与远程仓库进行交互，使用git remote指令。 )</p><h4 id="验证登录框">验证登录框</h4><blockquote><p>为了方便下次再碰到这种问题，记录一下蹦出的网页情况</p></blockquote><p>网页蹦出来是个小的登录界面，可以直接打开链接，然后验证与github账号的关联，同时确定能够跟这个电脑设备关联上。</p><p>打开链接，是一个github页面，然后输入设备登录码！！！很重要的成功标志</p><blockquote><p>幸好chatgpt帮助 解决 git 访问github</p></blockquote><blockquote><ol><li>配置对应的github库，需要设置好远程库与用户名一致，<a href="http://xn--github-9o7i562adkda6123feszd.io">然后后边加上github.io</a></li><li>先将up的模板放到github库中，详见配置教程</li><li>再将自己的test文件上传到对应的目录中，在进行hexo d 上传</li></ol></blockquote><h1>秋招文件收集</h1><p>数据库项目</p><p><a href="https://articles.zsxq.com/id_gsuoxn7qnvip.html">轮子实战项目：手写数据库 MYDB (zsxq.com)</a></p><p><a href="https://blog.csdn.net/qq_40856284/article/details/121580249">一起写个数据库 —— 0. 项目结构和一些不得不说的话-CSDN博客</a></p><p><a href="https://blog.csdn.net/qq_40856284/category_11504274.html">一起写个数据库_何人听我楚狂声的博客-CSDN博客</a></p><p>技术派</p><p><a href="https://paicoding.com/article/detail/472">如何将技术派写到简历上？-技术派 (paicoding.com)</a></p><p>PmHub</p><p><a href="https://www.yuque.com/canghe-u0ocv/laigeoffer-pmhub/mdoff4twogexi4ri">✅人人都是产品经理，打造竞争优势（🌟新人必看） (yuque.com)</a>   cgd9</p><p>八股学习</p><p><a href="https://javabetter.cn/sidebar/sanfene/nixi.html">面渣逆袭必看，面试题八股文Java基础、Java 集合框架、Java 并发编程、JVM、Spring、Redis、MyBatis、MySQL、操作系统、计算机网络、RocketMQ、分布式、微服务、设计模式、Linux👍 | 二哥的Java进阶之路 (javabetter.cn)</a></p><p>面试题整理</p><p><a href="https://top.interviewguide.cn/">InterviewGuide大厂面试真题</a></p><h2 id="面试经验">面试经验</h2><blockquote><p>刷面经</p><p><a href="https://www.yuque.com/snailclimb/mf2z3k/guh0u9hb3pr70rtk">大厂四年，2024 阿里、字节、蚂蚁、小红书面试经历分享 (yuque.com)</a>      《面试指北》cnk4</p></blockquote><p><a href="https://interviewguide.cn/notes/05-xiustar/02-campus_prepare/04-01-%E4%BA%92%E8%81%94%E7%BD%91%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93.html">⭐阿秀三个多月、50余场面试经验浓缩为经验和总结 | 阿秀的学习笔记 (interviewguide.cn)</a></p><p>简历修改</p><p>优质简历样例——<a href="https://articles.zsxq.com/id_5p3fcdmwpw4h.html">精选简历：基本信息、教育背景、专业技能、工作经验、项目经历、实习经历、荣誉证书写的比较好的例子 (zsxq.com)</a></p><p><a href="https://wx.zsxq.com/dweb2/index/topic_detail/182882241124882">知识星球 | 深度连接铁杆粉丝，运营高品质社群，知识变现的工具 (zsxq.com)</a></p><p>如何写好简历——<a href="https://www.yuque.com/itwanger/gykdzg/grvrtx?singleDoc=#e9486e82">如何写好简历？（完结） (yuque.com)</a>——王二</p><p>毒液   <a href="https://erdengk.top/archives/jian-li--mian-shi">简历、面试 | 我的知识海洋 (erdengk.top)</a></p><h2 id="知识星球常用">知识星球常用</h2><p><a href="https://wx.zsxq.com/dweb2/index/favorites">收藏</a></p><p>秀哥资源——<a href="https://articles.zsxq.com/id_dmf00wjw9dtm.html">🏆资源沉淀 (zsxq.com)</a></p><p>秀哥问答——<a href="https://articles.zsxq.com/id_wm06pp9dnogj.html">📖知识图谱（星球问答文章精华） (zsxq.com)</a></p><p><a href="https://interviewguide.cn/notes/05-xiustar/03-resume/01-00-%E7%AE%80%E5%8E%86%E5%BC%80%E7%AF%87%E8%AF%8D.html">简历远远比你想要的重要的多 | 阿秀的学习笔记 (interviewguide.cn)</a></p><p>公司列表  <a href="https://www.yuque.com/itwanger/gykdzg/yvq87dkkwtax2m3u">https://www.yuque.com/itwanger/gykdzg/yvq87dkkwtax2m3u</a> 面试指南 gqya</p><p>优质主题——<a href="https://articles.zsxq.com/id_v6xfrmw5637h.html">JavaGuide 知识星球优质主题汇总（2024-04-01） (zsxq.com)</a></p><h2 id="AI">AI</h2><p><a href="https://www.coze.cn/">扣子 - AI 智能体开发平台 (coze.cn)</a></p><h1>准备</h1><blockquote><p>测试八股文/测开八股文</p></blockquote><p>算法题目</p><p>数据库基础知识+ sql题目</p><p>项目梳理</p><p>java八股文</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h1&gt;网站重建，梦想开启&lt;/h1&gt;
-&lt;p&gt;熟能生巧&lt;/p&gt;
-&lt;p&gt;github 用git访问+chatgpt的回答帮助&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;nodejs + nmp  安装+版本匹配
-&lt;ol&gt;
-&lt;li&gt;删除nmp&lt;/li&gt;
-&lt;li&gt;更改下载源&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/l</summary>
-      
+    <summary type="html">网站迁移，重新开始博客之路</summary>
     
     
     
@@ -47,8 +35,8 @@
   
   <entry>
     <title></title>
-    <link href="https://www.fomal.cc/posts/0.html"/>
-    <id>https://www.fomal.cc/posts/0.html</id>
+    <link href="https://github.com/zenglongma/posts/0.html"/>
+    <id>https://github.com/zenglongma/posts/0.html</id>
     <published>2024-09-06T13:11:52.770Z</published>
     <updated>2024-03-06T02:12:54.729Z</updated>
     
@@ -71,8 +59,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.fomal.cc/posts/4a17b156.html"/>
-    <id>https://www.fomal.cc/posts/4a17b156.html</id>
+    <link href="https://github.com/zenglongma/posts/4a17b156.html"/>
+    <id>https://github.com/zenglongma/posts/4a17b156.html</id>
     <published>2024-09-06T13:11:52.768Z</published>
     <updated>2024-09-06T05:01:06.893Z</updated>
     
@@ -91,8 +79,8 @@
   
   <entry>
     <title>思考的原点1.1</title>
-    <link href="https://www.fomal.cc/posts/6c9e281a.html"/>
-    <id>https://www.fomal.cc/posts/6c9e281a.html</id>
+    <link href="https://github.com/zenglongma/posts/6c9e281a.html"/>
+    <id>https://github.com/zenglongma/posts/6c9e281a.html</id>
     <published>2024-03-19T11:59:12.000Z</published>
     <updated>2024-09-06T01:04:24.695Z</updated>
     
@@ -112,8 +100,8 @@
   
   <entry>
     <title>今日一心</title>
-    <link href="https://www.fomal.cc/posts/3ccff96b.html"/>
-    <id>https://www.fomal.cc/posts/3ccff96b.html</id>
+    <link href="https://github.com/zenglongma/posts/3ccff96b.html"/>
+    <id>https://github.com/zenglongma/posts/3ccff96b.html</id>
     <published>2024-03-13T14:09:23.000Z</published>
     <updated>2024-09-06T01:04:24.692Z</updated>
     
@@ -135,8 +123,8 @@
   
   <entry>
     <title>LLm_learn</title>
-    <link href="https://www.fomal.cc/posts/1908cf59.html"/>
-    <id>https://www.fomal.cc/posts/1908cf59.html</id>
+    <link href="https://github.com/zenglongma/posts/1908cf59.html"/>
+    <id>https://github.com/zenglongma/posts/1908cf59.html</id>
     <published>2024-02-16T10:48:56.000Z</published>
     <updated>2024-03-01T09:58:27.040Z</updated>
     
@@ -157,8 +145,8 @@
   
   <entry>
     <title>参与开源社区</title>
-    <link href="https://www.fomal.cc/posts/48379df9.html"/>
-    <id>https://www.fomal.cc/posts/48379df9.html</id>
+    <link href="https://github.com/zenglongma/posts/48379df9.html"/>
+    <id>https://github.com/zenglongma/posts/48379df9.html</id>
     <published>2024-01-24T10:27:14.000Z</published>
     <updated>2024-03-01T09:58:27.037Z</updated>
     
@@ -180,8 +168,8 @@
   
   <entry>
     <title>AI_Agent调研</title>
-    <link href="https://www.fomal.cc/posts/7641cfbd.html"/>
-    <id>https://www.fomal.cc/posts/7641cfbd.html</id>
+    <link href="https://github.com/zenglongma/posts/7641cfbd.html"/>
+    <id>https://github.com/zenglongma/posts/7641cfbd.html</id>
     <published>2024-01-09T10:50:43.000Z</published>
     <updated>2024-01-18T14:49:36.070Z</updated>
     
@@ -204,8 +192,8 @@
   
   <entry>
     <title>图卷积算法应用落地——骨架数据行为识别系统</title>
-    <link href="https://www.fomal.cc/posts/99a90e7a.html"/>
-    <id>https://www.fomal.cc/posts/99a90e7a.html</id>
+    <link href="https://github.com/zenglongma/posts/99a90e7a.html"/>
+    <id>https://github.com/zenglongma/posts/99a90e7a.html</id>
     <published>2024-01-09T06:39:26.000Z</published>
     <updated>2024-09-06T01:06:35.588Z</updated>
     
@@ -226,8 +214,8 @@
   
   <entry>
     <title>论文理解7骨架序列的目标表示自监督学习框架</title>
-    <link href="https://www.fomal.cc/posts/f1740f63.html"/>
-    <id>https://www.fomal.cc/posts/f1740f63.html</id>
+    <link href="https://github.com/zenglongma/posts/f1740f63.html"/>
+    <id>https://github.com/zenglongma/posts/f1740f63.html</id>
     <published>2024-01-06T03:31:36.000Z</published>
     <updated>2024-01-06T03:52:23.373Z</updated>
     
@@ -246,8 +234,8 @@
   
   <entry>
     <title>论文理解6利用三维热图量改善小规模人体动作识别性能</title>
-    <link href="https://www.fomal.cc/posts/ba38a36f.html"/>
-    <id>https://www.fomal.cc/posts/ba38a36f.html</id>
+    <link href="https://github.com/zenglongma/posts/ba38a36f.html"/>
+    <id>https://github.com/zenglongma/posts/ba38a36f.html</id>
     <published>2024-01-03T09:00:35.000Z</published>
     <updated>2024-01-06T04:11:11.170Z</updated>
     
@@ -268,8 +256,8 @@
   
   <entry>
     <title>备战1月</title>
-    <link href="https://www.fomal.cc/posts/7a7d65fb.html"/>
-    <id>https://www.fomal.cc/posts/7a7d65fb.html</id>
+    <link href="https://github.com/zenglongma/posts/7a7d65fb.html"/>
+    <id>https://github.com/zenglongma/posts/7a7d65fb.html</id>
     <published>2024-01-02T02:56:51.000Z</published>
     <updated>2024-02-22T02:22:46.648Z</updated>
     
@@ -293,8 +281,8 @@
   
   <entry>
     <title>2024.1月</title>
-    <link href="https://www.fomal.cc/posts/668a32f0.html"/>
-    <id>https://www.fomal.cc/posts/668a32f0.html</id>
+    <link href="https://github.com/zenglongma/posts/668a32f0.html"/>
+    <id>https://github.com/zenglongma/posts/668a32f0.html</id>
     <published>2024-01-02T01:15:04.000Z</published>
     <updated>2024-01-18T07:39:58.553Z</updated>
     
@@ -317,8 +305,8 @@
   
   <entry>
     <title>论文理解5基于图扩散卷积网络的二人动作语义识别</title>
-    <link href="https://www.fomal.cc/posts/d937b92.html"/>
-    <id>https://www.fomal.cc/posts/d937b92.html</id>
+    <link href="https://github.com/zenglongma/posts/d937b92.html"/>
+    <id>https://github.com/zenglongma/posts/d937b92.html</id>
     <published>2023-12-28T09:44:39.000Z</published>
     <updated>2023-12-29T09:48:50.126Z</updated>
     
@@ -338,8 +326,8 @@
   
   <entry>
     <title>论文理解4真实世界的图卷积网络用于智能视频监控中的动作识别</title>
-    <link href="https://www.fomal.cc/posts/69357615.html"/>
-    <id>https://www.fomal.cc/posts/69357615.html</id>
+    <link href="https://github.com/zenglongma/posts/69357615.html"/>
+    <id>https://github.com/zenglongma/posts/69357615.html</id>
     <published>2023-12-28T03:08:41.000Z</published>
     <updated>2023-12-29T09:48:50.121Z</updated>
     
@@ -360,8 +348,8 @@
   
   <entry>
     <title>Mzl_视频动作识别调研</title>
-    <link href="https://www.fomal.cc/posts/9e598b04.html"/>
-    <id>https://www.fomal.cc/posts/9e598b04.html</id>
+    <link href="https://github.com/zenglongma/posts/9e598b04.html"/>
+    <id>https://github.com/zenglongma/posts/9e598b04.html</id>
     <published>2023-12-24T07:55:09.000Z</published>
     <updated>2024-01-07T11:52:41.223Z</updated>
     
@@ -385,8 +373,8 @@
   
   <entry>
     <title>Mzl_古典写作训练营</title>
-    <link href="https://www.fomal.cc/posts/bf4a1918.html"/>
-    <id>https://www.fomal.cc/posts/bf4a1918.html</id>
+    <link href="https://github.com/zenglongma/posts/bf4a1918.html"/>
+    <id>https://github.com/zenglongma/posts/bf4a1918.html</id>
     <published>2023-12-24T07:54:03.000Z</published>
     <updated>2023-12-28T09:28:54.728Z</updated>
     
@@ -408,8 +396,8 @@
   
   <entry>
     <title>晨读日更</title>
-    <link href="https://www.fomal.cc/posts/3e014ae4.html"/>
-    <id>https://www.fomal.cc/posts/3e014ae4.html</id>
+    <link href="https://github.com/zenglongma/posts/3e014ae4.html"/>
+    <id>https://github.com/zenglongma/posts/3e014ae4.html</id>
     <published>2023-12-22T01:33:26.000Z</published>
     <updated>2024-01-02T14:18:21.961Z</updated>
     
@@ -425,10 +413,10 @@
   
   <entry>
     <title>java学习笔记整理</title>
-    <link href="https://www.fomal.cc/posts/d5874840.html"/>
-    <id>https://www.fomal.cc/posts/d5874840.html</id>
+    <link href="https://github.com/zenglongma/posts/d5874840.html"/>
+    <id>https://github.com/zenglongma/posts/d5874840.html</id>
     <published>2023-12-19T01:52:12.000Z</published>
-    <updated>2023-12-25T13:27:08.351Z</updated>
+    <updated>2024-09-07T06:59:23.565Z</updated>
     
     <content type="html"><![CDATA[<h1>java学习现状与计划调整</h1><h1>java基础面试笔记整理</h1><p>12.16号 学习整理go的学习路线</p><blockquote><p>一边是极客时间的开源实践教学视频</p><p>另一边是马士兵和珊珊老师的学习视频和基础学习笔记</p><p>以及一些现有的网站和博客</p></blockquote><blockquote><p>综上所述，可以以开源项目为目标，争取自己扩展自己造轮子的这个思路，尝试下第一次造轮子</p><p>然后用一些辅助的笔记和博客促进go的学习，努力刷开源课程</p></blockquote><blockquote><p>同时借助学习go语言基础的过程，复习起来java的基础知识</p></blockquote><p>12.17号 周天</p><blockquote><p>学习完成马士兵讲解javaer转变成goer的第一讲视频后，发现要学习java 的多线程和jvm基础【比如线程池 一些内存算法等等】</p><p>整理了现有的多线程和jvm学习的视频</p><p>要求是 有完整的笔记 以及对应的详细视频讲解，如果看笔记看不懂再去看视频</p></blockquote><p>12.18日 混沌+ 焦虑的一天+晚上焦虑的睡眠</p><blockquote><p>上午 泄欲</p><p>下午没有睡午觉，整理那个尚硅谷的一个安装notecase软件的bug后，1.9版本一直有错误，换成其他版本并尝试，花费1.5h 解决后，开始刷剧</p><p>晚上去吃饭+ 刷剧 +  8.15困得不行 一觉睡到9.25</p></blockquote>]]></content>
     
@@ -442,8 +430,8 @@
   
   <entry>
     <title>论文理解3用于不完整骨架动作识别的丰富的激活图卷积网络</title>
-    <link href="https://www.fomal.cc/posts/f874c016.html"/>
-    <id>https://www.fomal.cc/posts/f874c016.html</id>
+    <link href="https://github.com/zenglongma/posts/f874c016.html"/>
+    <id>https://github.com/zenglongma/posts/f874c016.html</id>
     <published>2023-12-14T01:55:45.000Z</published>
     <updated>2023-12-29T09:47:04.252Z</updated>
     
