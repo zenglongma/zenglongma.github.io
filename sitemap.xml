@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.fomal.cc/posts/75055f1f.html</loc>
+    
+    <lastmod>2024-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.fomal.cc/posts/c0bca80f.html</loc>
     
     <lastmod>2024-09-17</lastmod>
@@ -614,15 +623,6 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/posts/75055f1f.html</loc>
-    
-    <lastmod>2023-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fomal.cc/posts/77770c79.html</loc>
     
     <lastmod>2023-08-23</lastmod>
@@ -948,6 +948,13 @@
   </url>
   
   <url>
+    <loc>https://www.fomal.cc/tags/English/</loc>
+    <lastmod>2024-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.fomal.cc/tags/ChatGPT/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -1004,13 +1011,6 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/tags/English/</loc>
-    <lastmod>2024-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fomal.cc/tags/Literature-Reading/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -1042,6 +1042,13 @@
   
   <url>
     <loc>https://www.fomal.cc/categories/LeetCode/</loc>
+    <lastmod>2024-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/categories/%E6%97%A5%E6%8B%B1%E4%B8%80%E5%8D%92/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1098,13 +1105,6 @@
   
   <url>
     <loc>https://www.fomal.cc/categories/%E6%88%90%E9%95%BF/</loc>
-    <lastmod>2024-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fomal.cc/categories/%E6%97%A5%E6%8B%B1%E4%B8%80%E5%8D%92/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
