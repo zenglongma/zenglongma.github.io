@@ -3,11 +3,11 @@
   <title>Fomalhaut🥝</title>
   
   
-  <link href="https://www.fomal.cc/atom.xml" rel="self"/>
+  <link href="https://github.com/zenglongma/atom.xml" rel="self"/>
   
-  <link href="https://www.fomal.cc/"/>
-  <updated>2024-09-07T14:14:37.406Z</updated>
-  <id>https://www.fomal.cc/</id>
+  <link href="https://github.com/zenglongma/"/>
+  <updated>2024-09-17T02:42:34.425Z</updated>
+  <id>https://github.com/zenglongma/</id>
   
   <author>
     <name>Fomalhaut🥝</name>
@@ -17,9 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>boss_and_job</title>
+    <link href="https://github.com/zenglongma/posts/c0bca80f.html"/>
+    <id>https://github.com/zenglongma/posts/c0bca80f.html</id>
+    <published>2024-09-17T02:42:34.000Z</published>
+    <updated>2024-09-17T02:42:34.425Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>网站重建，梦想开启</title>
-    <link href="https://www.fomal.cc/posts/c318edab.html"/>
-    <id>https://www.fomal.cc/posts/c318edab.html</id>
+    <link href="https://github.com/zenglongma/posts/c318edab.html"/>
+    <id>https://github.com/zenglongma/posts/c318edab.html</id>
     <published>2024-09-06T14:10:38.000Z</published>
     <updated>2024-09-07T14:14:37.406Z</updated>
     
@@ -35,8 +48,8 @@
   
   <entry>
     <title></title>
-    <link href="https://www.fomal.cc/posts/0.html"/>
-    <id>https://www.fomal.cc/posts/0.html</id>
+    <link href="https://github.com/zenglongma/posts/0.html"/>
+    <id>https://github.com/zenglongma/posts/0.html</id>
     <published>2024-09-06T13:11:52.770Z</published>
     <updated>2024-03-06T02:12:54.729Z</updated>
     
@@ -59,8 +72,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.fomal.cc/posts/4a17b156.html"/>
-    <id>https://www.fomal.cc/posts/4a17b156.html</id>
+    <link href="https://github.com/zenglongma/posts/4a17b156.html"/>
+    <id>https://github.com/zenglongma/posts/4a17b156.html</id>
     <published>2024-09-06T13:11:52.768Z</published>
     <updated>2024-09-06T05:01:06.893Z</updated>
     
@@ -79,8 +92,8 @@
   
   <entry>
     <title>思考的原点1.1</title>
-    <link href="https://www.fomal.cc/posts/6c9e281a.html"/>
-    <id>https://www.fomal.cc/posts/6c9e281a.html</id>
+    <link href="https://github.com/zenglongma/posts/6c9e281a.html"/>
+    <id>https://github.com/zenglongma/posts/6c9e281a.html</id>
     <published>2024-03-19T11:59:12.000Z</published>
     <updated>2024-09-06T01:04:24.695Z</updated>
     
@@ -100,8 +113,8 @@
   
   <entry>
     <title>今日一心</title>
-    <link href="https://www.fomal.cc/posts/3ccff96b.html"/>
-    <id>https://www.fomal.cc/posts/3ccff96b.html</id>
+    <link href="https://github.com/zenglongma/posts/3ccff96b.html"/>
+    <id>https://github.com/zenglongma/posts/3ccff96b.html</id>
     <published>2024-03-13T14:09:23.000Z</published>
     <updated>2024-09-06T01:04:24.692Z</updated>
     
@@ -123,8 +136,8 @@
   
   <entry>
     <title>LLm_learn</title>
-    <link href="https://www.fomal.cc/posts/1908cf59.html"/>
-    <id>https://www.fomal.cc/posts/1908cf59.html</id>
+    <link href="https://github.com/zenglongma/posts/1908cf59.html"/>
+    <id>https://github.com/zenglongma/posts/1908cf59.html</id>
     <published>2024-02-16T10:48:56.000Z</published>
     <updated>2024-03-01T09:58:27.040Z</updated>
     
@@ -145,8 +158,8 @@
   
   <entry>
     <title>参与开源社区</title>
-    <link href="https://www.fomal.cc/posts/48379df9.html"/>
-    <id>https://www.fomal.cc/posts/48379df9.html</id>
+    <link href="https://github.com/zenglongma/posts/48379df9.html"/>
+    <id>https://github.com/zenglongma/posts/48379df9.html</id>
     <published>2024-01-24T10:27:14.000Z</published>
     <updated>2024-03-01T09:58:27.037Z</updated>
     
@@ -168,8 +181,8 @@
   
   <entry>
     <title>AI_Agent调研</title>
-    <link href="https://www.fomal.cc/posts/7641cfbd.html"/>
-    <id>https://www.fomal.cc/posts/7641cfbd.html</id>
+    <link href="https://github.com/zenglongma/posts/7641cfbd.html"/>
+    <id>https://github.com/zenglongma/posts/7641cfbd.html</id>
     <published>2024-01-09T10:50:43.000Z</published>
     <updated>2024-01-18T14:49:36.070Z</updated>
     
@@ -192,8 +205,8 @@
   
   <entry>
     <title>图卷积算法应用落地——骨架数据行为识别系统</title>
-    <link href="https://www.fomal.cc/posts/99a90e7a.html"/>
-    <id>https://www.fomal.cc/posts/99a90e7a.html</id>
+    <link href="https://github.com/zenglongma/posts/99a90e7a.html"/>
+    <id>https://github.com/zenglongma/posts/99a90e7a.html</id>
     <published>2024-01-09T06:39:26.000Z</published>
     <updated>2024-09-06T01:06:35.588Z</updated>
     
@@ -214,8 +227,8 @@
   
   <entry>
     <title>论文理解7骨架序列的目标表示自监督学习框架</title>
-    <link href="https://www.fomal.cc/posts/f1740f63.html"/>
-    <id>https://www.fomal.cc/posts/f1740f63.html</id>
+    <link href="https://github.com/zenglongma/posts/f1740f63.html"/>
+    <id>https://github.com/zenglongma/posts/f1740f63.html</id>
     <published>2024-01-06T03:31:36.000Z</published>
     <updated>2024-01-06T03:52:23.373Z</updated>
     
@@ -234,8 +247,8 @@
   
   <entry>
     <title>论文理解6利用三维热图量改善小规模人体动作识别性能</title>
-    <link href="https://www.fomal.cc/posts/ba38a36f.html"/>
-    <id>https://www.fomal.cc/posts/ba38a36f.html</id>
+    <link href="https://github.com/zenglongma/posts/ba38a36f.html"/>
+    <id>https://github.com/zenglongma/posts/ba38a36f.html</id>
     <published>2024-01-03T09:00:35.000Z</published>
     <updated>2024-01-06T04:11:11.170Z</updated>
     
@@ -256,8 +269,8 @@
   
   <entry>
     <title>备战1月</title>
-    <link href="https://www.fomal.cc/posts/7a7d65fb.html"/>
-    <id>https://www.fomal.cc/posts/7a7d65fb.html</id>
+    <link href="https://github.com/zenglongma/posts/7a7d65fb.html"/>
+    <id>https://github.com/zenglongma/posts/7a7d65fb.html</id>
     <published>2024-01-02T02:56:51.000Z</published>
     <updated>2024-02-22T02:22:46.648Z</updated>
     
@@ -281,8 +294,8 @@
   
   <entry>
     <title>2024.1月</title>
-    <link href="https://www.fomal.cc/posts/668a32f0.html"/>
-    <id>https://www.fomal.cc/posts/668a32f0.html</id>
+    <link href="https://github.com/zenglongma/posts/668a32f0.html"/>
+    <id>https://github.com/zenglongma/posts/668a32f0.html</id>
     <published>2024-01-02T01:15:04.000Z</published>
     <updated>2024-01-18T07:39:58.553Z</updated>
     
@@ -305,8 +318,8 @@
   
   <entry>
     <title>论文理解5基于图扩散卷积网络的二人动作语义识别</title>
-    <link href="https://www.fomal.cc/posts/d937b92.html"/>
-    <id>https://www.fomal.cc/posts/d937b92.html</id>
+    <link href="https://github.com/zenglongma/posts/d937b92.html"/>
+    <id>https://github.com/zenglongma/posts/d937b92.html</id>
     <published>2023-12-28T09:44:39.000Z</published>
     <updated>2023-12-29T09:48:50.126Z</updated>
     
@@ -326,8 +339,8 @@
   
   <entry>
     <title>论文理解4真实世界的图卷积网络用于智能视频监控中的动作识别</title>
-    <link href="https://www.fomal.cc/posts/69357615.html"/>
-    <id>https://www.fomal.cc/posts/69357615.html</id>
+    <link href="https://github.com/zenglongma/posts/69357615.html"/>
+    <id>https://github.com/zenglongma/posts/69357615.html</id>
     <published>2023-12-28T03:08:41.000Z</published>
     <updated>2023-12-29T09:48:50.121Z</updated>
     
@@ -348,8 +361,8 @@
   
   <entry>
     <title>Mzl_视频动作识别调研</title>
-    <link href="https://www.fomal.cc/posts/9e598b04.html"/>
-    <id>https://www.fomal.cc/posts/9e598b04.html</id>
+    <link href="https://github.com/zenglongma/posts/9e598b04.html"/>
+    <id>https://github.com/zenglongma/posts/9e598b04.html</id>
     <published>2023-12-24T07:55:09.000Z</published>
     <updated>2024-01-07T11:52:41.223Z</updated>
     
@@ -373,8 +386,8 @@
   
   <entry>
     <title>Mzl_古典写作训练营</title>
-    <link href="https://www.fomal.cc/posts/bf4a1918.html"/>
-    <id>https://www.fomal.cc/posts/bf4a1918.html</id>
+    <link href="https://github.com/zenglongma/posts/bf4a1918.html"/>
+    <id>https://github.com/zenglongma/posts/bf4a1918.html</id>
     <published>2023-12-24T07:54:03.000Z</published>
     <updated>2023-12-28T09:28:54.728Z</updated>
     
@@ -396,8 +409,8 @@
   
   <entry>
     <title>晨读日更</title>
-    <link href="https://www.fomal.cc/posts/3e014ae4.html"/>
-    <id>https://www.fomal.cc/posts/3e014ae4.html</id>
+    <link href="https://github.com/zenglongma/posts/3e014ae4.html"/>
+    <id>https://github.com/zenglongma/posts/3e014ae4.html</id>
     <published>2023-12-22T01:33:26.000Z</published>
     <updated>2024-01-02T14:18:21.961Z</updated>
     
@@ -413,8 +426,8 @@
   
   <entry>
     <title>java学习笔记整理</title>
-    <link href="https://www.fomal.cc/posts/d5874840.html"/>
-    <id>https://www.fomal.cc/posts/d5874840.html</id>
+    <link href="https://github.com/zenglongma/posts/d5874840.html"/>
+    <id>https://github.com/zenglongma/posts/d5874840.html</id>
     <published>2023-12-19T01:52:12.000Z</published>
     <updated>2024-09-07T06:59:23.565Z</updated>
     
@@ -422,23 +435,6 @@
     
     
     <summary type="html">整理java面试准备现状和java基础知识笔记</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>论文理解3用于不完整骨架动作识别的丰富的激活图卷积网络</title>
-    <link href="https://www.fomal.cc/posts/f874c016.html"/>
-    <id>https://www.fomal.cc/posts/f874c016.html</id>
-    <published>2023-12-14T01:55:45.000Z</published>
-    <updated>2023-12-29T09:47:04.252Z</updated>
-    
-    <content type="html"><![CDATA[<h1>两篇文献总结</h1><blockquote><p>第一篇文章是一篇会议短文，只是做了一下简单介绍</p><p>第一篇代码</p><p><a href="https://gitee.com/yfsong0709/RA-GCNv1/tree/master">RA-GCNv1: RA-GCNv1: implemented by PyTorch - Gitee.com</a></p><p>第二篇是详细介绍，并且在内容上，扩展了数据集，并将内容进行详细介绍</p><p>第二篇代码链接<a href="https://gitee.com/yfsong0709/RA-GCNv2">RA-GCNv2: RA-GCNv2: implemented by PyTorch (gitee.com)</a></p></blockquote><blockquote><p>下边是模型的主要介绍</p></blockquote><p><img src="../assets/image-20231229173601091.png" alt="image-20231229173601091"></p><p>RA-GCN的管道有三个流网络。每个流包含一个ST-GCN。ST-GCN层下的两个数字分别为输入通道数和输出通道数。其他层包含相同的输入和输出通道。第五层和第八层都使用时间跨度来减少序列长度。GAP和Concat是全局平均池和连接操作，S是流的数量，⊗和Θ分别表示元素的乘法和减法。该模型共包含三个步骤。首先通过数据预处理模块将输入序列x转换为x` 。  然后将x ``经过相应的掩码矩阵过滤后发送到每个流。最后，将每个流的输出连接起来，以获得x的最后一个类。</p><blockquote><p>两篇文章在思路上是相同的，都是处理的不完整骨架数据。网络模型以经过时序和空间处理的X特征为输入，在初始流的时候，所有的mask矩阵设置为1，x经过处理后变成x`，然后经过STGCN网络，在经过处理后，分别获得对应的特征矩阵以及经过GAP(全局平均池化和归一化后)后得到的权重矩阵，来作为激活模块的输入。激活模块使用了一种微妙的技术，==类激活映射（CAM），来区分由每个流激活的判别性骨架关节。通过累积前面流获取的激活图，形成一个掩码矩阵，通知新的流关于哪些关节已经被激活。====然后，新的流将被迫从未激活的关节中探索判别性特征。</p></blockquote><p>相比于第一篇文章，第二篇文章在第一篇文章的基础上，改进激活模块，原来的激活模块中的激活掩码是通过Softmax函数获得的，该函数仅激活每个流程的少数关节。==相比之下，第二篇提出使用归一化激活函数来扩大激活范围==，====同时在每个单独的网络流上添加许多额外的交叉熵正则化来扩展原始损失函数==，以便更有效地学习特征。 创造了更多的数据集来进行实验，合成数据集通过==更多的退化算子进行了扩展，其中遮挡退化进一步分为四种类型，包括帧、部分、块和随机，以及两个合成的抖动数据集==。在不同退化条件下进行了更多实验，以验证所提方法的有效性和鲁棒性。</p><p><strong>a)</strong>   <strong>两篇文章共同关注点：</strong></p><p><strong>①</strong>  <strong>从输入特征映射中的所有位置提取非局部特征的方法</strong></p><p><strong>②</strong>  <strong>提出了一种多流图卷积网络（Rich_GCN），以探索足够的判别性特征，以实现鲁棒的动作识别</strong></p><p><strong>③</strong>  <strong>两篇文章都是从类激活映射（CAM）技术出发，借以区分多流网络中每个流激活的判别性骨架关节，并利用mask掩码矩阵来进行记录哪些骨架关节已经被激活，来促进网络对未激活的关节进一步学习。</strong></p><p><strong>b)</strong>   <strong>两篇文章关系</strong></p><p><strong>①</strong>  <strong>第二篇文章以第一篇文章为基础，进行方法提升和数据集扩充</strong></p><p><strong>②</strong>  <strong>相比之下，第二篇提出使用归一化激活函数来扩大激活范围，相应的流程将获得更好且更可解释的激活图make矩阵</strong></p><p><strong>③</strong>  <strong>在每个单独的网络流上添加许多额外的交叉熵正则化来扩展原始损失函数，以便更有效地学习特征</strong></p><h1>RICHLY ACTIVATED GRAPH CONVOLUTIONAL ETWORK FOR ACTION RECOGNITION WITH INCOMPLETE SKELETONS 用于不完整骨架动作识别的丰富的激活图卷积网络</h1><h2 id="ABSTRACT">ABSTRACT</h2><p>目前用于基于骨架的人体动作识别的方法通常==处理完全观察到的骨架==。然而，在实际场景中，很容易==捕捉到不完整和带有噪音的骨架==，这将降低传统模型的性能。为了==增强动作识别模型对不完整骨架的鲁棒性，我们提出了一种多流图卷积网络==（GCN），用于==探索分布在所有骨架关节上的充分判别特征==。在这里，网络的每个流仅负责从<strong>当前未激活的关节中学习特征</strong>，这些关节由前面的流通过**类激活图（CAM）**区分开，因此所提出的方法的==激活关节明显多于传统方法==。因此，所提出的方法被称为丰富激活的GCN（RA-GCN），其中==丰富发现的特征将提高模型的鲁棒性==。与最先进的方法相比，RA-GCN在NTU RGB+D数据集上取得了可比较的性能。此外，在一个合成的遮挡数据集上，RA-GCN显著减轻了性能的恶化。</p><p>摘要章节要点总结：</p><ul><li>目前的骨架人体动作识别方法通常处理完全观察到的骨架。</li><li>在实际场景中，很容易捕捉到不完整和带有噪音的骨架，这会降低传统模型的性能。</li><li>为了增强模型对不完整骨架的鲁棒性，提出了一种多流图卷积网络（GCN）。</li><li>每个网络流仅负责从当前未激活的关节学习特征，通过类激活图（CAM）区分关节，提高了激活关节的数量。</li><li>提出的方法称为丰富激活的GCN（RA-GCN），其中丰富发现的特征将提高模型的鲁棒性。</li><li>与最先进的方法相比，RA-GCN在NTU RGB+D数据集上取得了可比较的性能。</li><li>在合成的遮挡数据集上，RA-GCN显著减轻了性能的恶化。</li></ul><h2 id="1-INTRODUCTION">1.INTRODUCTION</h2><p><strong>引言：</strong></p><p>基于骨架的人体动作识别方法在许多应用中变得日益重要，并取得了巨大进展，这归功于其在适应背景、对光照强度的鲁棒性以及较低计算成本方面的优越性。<strong>骨架数据由多个时空骨架关节的3D坐标组成</strong>，可以通过Kinect等多模态传感器收集，也可以通过姿态估计方法直接从2D图像中估计得到。传统方法通常以两种方式处理骨架数据。一种方式是将这些关节连接成一个整体矢量，然后使用基于RNN的方法对时间信息进行建模。另一种方式是将关节的时间序列视为图像，然后利用基于CNN的方法识别动作。然而，骨架关节之间的空间结构信息在基于RNN和CNN的方法中都难以有效利用，尽管研究人员提出了一些额外的约束或专用网络结构来强烈编码骨架关节的空间结构。最近，<strong>Yan等人首次将基于图的方法应用于基于骨架的动作识别，并提出了空时图卷积网络（ST-GCN）来提取嵌入在空间配置和时间动态中的特征</strong>。此外，还有一些使用图技术的动作识别方法，如[12, 13, 14]，但这些方法主要基于RGB视频而不是骨架数据。</p><p>所有上述方法都假设完整的骨架关节可以被很好地捕获，而不考虑不完整的情况。然而，在真实场景中往往难以获得完整的骨架序列。例如，行人可能会被停放的车辆或其他可见的物体遮挡。**与此同时，当面对不完整的骨架时，传统方法的性能会有不同程度的下降。**因此，**如何识别具有不完整骨架的动作是一个具有挑战性的问题。<strong>许多研究人员</strong>正在探索从输入特征映射中的所有位置提取非局部特征的方法，如[15]和[16]。**受此启发，==我们提出了一种多流图卷积网络（GCN），以探索足够的判别性特征，以实现鲁棒的动作识别。==在这里，我们使用了一种微妙的技术，==类激活映射（CAM），来区分由每个流激活的判别性骨架关节。通过累积前面流获取的激活图，形成一个掩码矩阵，通知新的流关于哪些关节已经被激活。====然后，新的流将被迫从未激活的关节中探索判别性特征。==因此，所提出的方法被称为丰富激活的GCN（RA-GCN），其中==发现的丰富判别性特征将提高模型对不完整骨架的鲁棒性。==在NTU RGB+D数据集[17]上的实验结果表明，RA-GCN在性能上达到了与最先进方法相媲美的水平。此外，针对不完整骨架的情况，我们==构建了一个合成的遮挡数据集==，其中NTU数据集的关节在空间和时间维度上被部分遮挡。图1展示了两种类型遮挡的一些示例。在新数据集上，RA-GCN显著改善了性能下降的情况。</p><h2 id="相关研究">相关研究</h2><blockquote><p>Many researchers are exploring to extract non-local fea-<br>tures from all positions in the input feature maps, such as [15]<br>and [16].许多研究人员正在探索从输入特征图的所有位置提取非局部特征，如[15]和[16]。</p><p>[15] X. Wang, R. Girshick, A. Gupta, and K. He, “Non-local<br>neural networks,” in CVPR, 2018, pp. 7794–7803.<br>[16] S. Li, S. Bak, P. Carr, and X. Wang, “Diversity regu-<br>larized spatiotemporal attention for video-based person<br>re-identification,” in CVPR, 2018, pp. 369–378.</p></blockquote><p><strong>总结：</strong></p><ol><li><strong>背景介绍：</strong><ul><li>骨架基础的人体动作识别在多个应用领域中变得越来越重要，并取得了显著进展。</li><li>骨架数据由多个空间和时间骨架关节的3D坐标组成，可通过多模态传感器（如Kinect）或2D图像的姿态估计方法获取。</li></ul></li><li><strong>传统方法的局限性：</strong><ul><li>传统方法通常以两种方式处理骨架数据，但RNN和CNN方法对骨架关节之间的空间结构信息利用不足。</li><li>最近，Yan等人首次将基于图的方法应用于骨架动作识别，提出了空间时间图卷积网络（ST-GCN）。</li></ul></li><li><strong>不完整骨架的挑战：</strong><ul><li>现有方法假设可以完整捕捉骨架关节，而实际场景中往往难以获取完整的骨架序列，例如，由于物体遮挡导致部分关节缺失。</li></ul></li><li><strong>提出的方法 - RA-GCN：</strong><ul><li>为提高动作识别模型对不完整骨架的鲁棒性，提出了多流图卷积网络（RA-GCN）。</li><li>RA-GCN利用类激活映射（CAM）识别每个流激活的骨架关节。</li><li>通过累积前一流的激活图形成掩码矩阵，引导新流探索未激活的关节。</li></ul></li><li><strong>实验证明：</strong><ul><li>RA-GCN在NTU RGB+D数据集上表现出与最先进方法相媲美的性能。</li><li>针对不完整骨架，构建了合成遮挡数据集，RA-GCN显著改善了性能下降情况。</li></ul></li></ol><p><strong>结论：</strong> 该方法通过有效利用骨架关节的空间结构信息，特别是在不完整骨架情况下，提出了一种RA-GCN模型，取得了令人满意的实验结果。</p><h2 id="2-RICHLY-ACTIVATED-GCN">2. RICHLY ACTIVATED GCN</h2><p><strong>丰富激活的GCN：</strong></p><p>为了提高动作识别模型的鲁棒性，我们提出了RA-GCN，旨在从训练骨架序列中提取充分的判别性特征。RA-GCN的概述如图2所示。假设V是一个骨架中的关节数量，M是一帧中的骨架数量，T是一个序列中的帧数量。那么，输入数据x的大小为C × T × V × M，其中C = 3表示每个关节的3D坐标。</p><p>该网络包括三个主要步骤：</p><ol><li><strong>预处理模块：</strong> 将输入数据x转换为x，以提取更多信息。预处理模块由两部分组成：第一部分通过==计算时间差分xt = x[t+1]−x[t]提取运动特征==，第二部分计算==所有关节与每帧中心关节的相对坐标xr==。将x、xt和xr连接以获取x。</li><li><strong>流过滤：</strong> 对于每个流，通过与记录当前未激活关节的掩码矩阵的逐元素乘积，对x中的骨架关节进行过滤。掩码矩阵通过累积前一流的激活模块获取的激活图进行初始化。每个流的输入数据仅包含未激活的关节，然后通过ST-GCN网络获取基于部分骨架关节的特征表示。</li><li><strong>输出模块：</strong> 将所有流的特征连接在一起，使用softmax层获取输入x的最终类别。</li></ol><p><strong>总结：</strong></p><ul><li>RA-GCN是为了==应对不完整骨架数据而提出的动作识别模型，通过多个流同时处理未激活的关节，以提取充分的判别性特征==。</li><li>预处理模块用于从输入数据中提取更多信息，包括运动特征和相对坐标。</li><li>流过滤通过==掩码矩阵和激活图==确保每个流处理不同的关节集，增强了模型对不完整骨架的鲁棒性。</li><li>输出模块将所有流的特征连接，并使用softmax层获取最终的动作类别。RA-GCN在NTU RGB+D数据集上达到了与最先进方法相媲美的性能，并在合成遮挡数据集上显著改善了性能。</li></ul><h3 id="2-1-Baseline-Model">2.1. Baseline Model</h3><p><strong>Baseline Model 章节：</strong></p><p>基准模型是ST-GCN [11]，由多个空间卷积块和时间卷积块组成。具体而言，空间图卷积块可以通过以下公式实现：</p><p><em>f<strong>o</strong>u**t</em>=<em>D</em>max∑<em>d</em>=0<em>D</em>max<em>W<strong>d</strong>f</em>in(Λ2d<em>A**d</em>Λ2d⊗<em>M**d</em>),</p><p>其中<em>D</em>max是预定义的最大距离,f<em>in和</em>f<em>out分别是输入和输出特征图，<em>A**d</em>表示图形距离</em>d<em>的邻接矩阵，<em>d</em>=∑</em>k<strong>A</strong>ik<strong>d*+<em>α</em>是规范化对角矩阵，*A</strong>ik<strong>d<em>表示</em>A</strong>d<em>的第i行第k列的元素，<em>α</em>设置为一个小值，例如10−410−4，以避免Λ�Λ</em>d<em>中的空行。对于每个邻接矩阵，我们配备一个可学习的矩阵</em>M<strong>d*，它表示每个边的重要性。在空间图卷积块之后，使用1×L Conv层提取特征图*f</strong>o<strong>u</strong>t*的时间信息，其中L是时间窗口大小。空间和时间卷积块之后都有Batch-Norm层和ReLU层，并且总的ST-GCN层包含一个残差连接。此外，在空间和时间卷积块之间添加了一个自适应的Dropout层，以避免过拟合。关于ST-GCN的更多细节将在[11]中找到。</p><p><strong>总结：</strong></p><ul><li>基准模型采用ST-GCN结构，包括多个空间和时间卷积块。</li><li>空间图卷积块通过图卷积操作处理邻接矩阵，其中包含学习到的重要性矩阵。</li><li>时间信息由1×L Conv层提取，L为时间窗口大小。</li><li>整体结构包括Batch-Norm、ReLU、残差连接和自适应Dropout层。</li></ul><h3 id="2-2-Activation-Module">2.2. Activation Module</h3><p><strong>Activation Module模块：</strong></p><p>在RA-GCN中，==激活模块被构建用于区分每个流的激活关节，====然后通过累积前面流的激活图来引导新流的学习过程==。这个过程主要可以通过CAM技术[18]实现。原始的CAM技术是在单次前向传递中定位特定类别的图像区域，其中<em>M**c</em>被定义为类别c的激活图，其中每个空间点为 <em>M**c</em>(<em>x</em>,<em>y</em>)=∑<em>k<strong>w</strong>c<strong>k</strong>f**k</em>(<em>x</em>,<em>y</em>). 在这个公式中，<em>f**k</em>(<em>x</em>,<em>y</em>)是全局平均池化操作之前的特征图，<em>w<strong>c</strong>k</em>是类别c的第k通道的权重。在本文中，我们用图像的坐标(x, y)替换为==帧编号t和骨架序列中的关节点编号i，==从而可以定位激活的关节点。这些==关节点也可以视为相应流的注意关节点==。在这里，类别c被选为真实类别。然后，流s的掩码矩阵计算如下。 <em>ma<strong>s</strong>k**s</em>=(⨂<em>i</em>=1<em>s</em>−1mask<em>i</em>)⊗(1−Softmax(<em>M**s</em>−1<em>c</em>)), 其中⨂表示所有掩码矩阵的逐元素乘积，特别地，第一个流的掩码矩阵是一个全1矩阵。最后，流s的输入将由以下公式获得。 <em>x**s</em>=<em>x</em>′⊗masks, 其中′<em>x</em>′是预处理后的骨架数据。</p><p>公式(4)说明了==流s的输入仅包含前面流未激活的关节点。==因此，RA-GCN将充分从所有关节点中探索判别特征。图3显示了基准模型、具有2个流和3个流的RA-GCN的所有流的激活关节点的示例，从中我们可以观察到RA-GCN比基准模型发现了更多激活的关节点。</p><p>RA-GCN的代码可在 <a href="https://github.com/yfsong0709/RA-GCNv1">https://github.com/yfsong0709/RA-GCNv1</a> 找到。</p><p><strong>总结：</strong></p><ul><li>RA-GCN中的激活模块通过CAM技术区分每个流的激活关节点。</li><li>使用激活图引导新流的学习过程，累积前面流的激活图以产生掩码矩阵。</li><li>输入流经过逐元素乘积操作，仅包含前面流未激活的关节点。</li><li>RA-GCN通过充分探索所有关节点，发现了更多激活的关节点，提高了模型的鲁棒性。</li></ul><h2 id="相关研究-2">相关研究</h2><p>This procedure can be<br>implemented mainly by the CAM technique [18].</p><p>【18】B. Zhou, A. Khosla, A. Lapedriza, A. Oliva, and A. Tor-<br>ralba, “Learning deep features for discriminative local-<br>ization,” in CVPR, 2016, pp. 2921–2929.</p><h2 id="3-EXPERIMENTS">3. EXPERIMENTS</h2><h3 id="3-1-Dataset-and-Implemental-Details">3.1. Dataset and Implemental Details</h3><p><strong>Dataset and Implemental Details模块：</strong></p><p>在这一部分，我们评估RA-GCN在大规模数据集NTU RGB+D [17]上的性能，这是目前最大的室内动作识别数据集。该数据集包含由Microsoft Kinect v2收集的56880个视频样本，由40名受试</p><p>在训练RA-GCN之前，我们需要对一个带有转换骨架数据的ST-GCN网络进行预训练，以获取基线模型，训练设置与[11]相同。然后，使用此基线模型初始化RA-GCN的所有流。最后，对RA-GCN模型进行微调。所有实验均在两个TITAN X GPU上运行。</p><p><strong>总结：</strong></p><ul><li>评估RA-GCN性能使用NTU RGB+D数据集，包含大量视频样本和多个动作类别。</li><li>数据集分为两个基准：==跨主体（CS）和跨视角（CV）==。</li><li>在训练RA-GCN之前，==需要通过预训练ST-GCN网络获取基线模型==。</li><li>所有实验在两个TITAN X GPU上运行。</li></ul><h3 id="3-2-Experimental-results-on-complete-skeletons">3.2. Experimental results on complete skeletons</h3><p><strong>Experimental results on complete skeletons模块：</strong></p><p>我们在NTU RGB+D数据集上将RA-GCN的性能与先前的最先进方法进行了比较。如表1所示，尽管在CS基准上仅比PB-GCN [20]差1.6％，但我们的方法在CV基准上表现优异。与基线相比，我们的方法分别提高了4.4％和5.2％。由于RA-GCN旨在发现更具判别性的关节，因此RA-GCN的性能仅与最先进的方法相媲美，因为大多数动作只需几个主要关节即可识别。然而，当这些主要关节被遮挡时，传统方法的性能将显著下降。</p><p><strong>总结：</strong></p><ul><li>在NTU RGB+D数据集上，RA-GCN在CV基准上表现优越，仅在CS基准上略逊于PB-GCN。</li><li>与基线相比，RA-GCN在两个基准上分别提高了4.4％和5.2％的性能。</li><li>RA-GCN的性能与最先进的方法相当，因为其目标是发现更有判别性的关节。</li><li>传统方法在主要关节被遮挡时性能显著下降。</li></ul><h3 id="3-3-Ablation-studies">3.3. Ablation studies</h3><p><strong>Ablation studies模块：</strong></p><p>在第2.1节中，我们介绍了基线模型的两个超参数==最大距离Dmax和时间窗口大小L==。这两个超参数对我们的模型有很大影响。我们测试了六组参数，实验结果见表2。观察到在CS基准上，当Dmax = 2且L = 5时，我们的模型获得了最佳准确性。至于CV基准，最佳设置为Dmax = 3和L = 9。</p><p><strong>总结：</strong></p><ul><li>基线模型的两个超参数，Dmax和L，对模型性能有显著影响。</li><li>在CS基准上，当Dmax = 2且L = 5时，我们的模型获得了最佳准确性。</li><li>在CV基准上，最佳设置为Dmax = 3和L = 9。</li></ul><h3 id="3-4-Experimental-results-on-incomplete-skeletons">3.4. Experimental results on incomplete skeletons</h3><p><strong>Experimental results on incomplete skeletons模块：</strong></p><p>为验证我们的方法对不完整骨架的鲁棒性，我们基于NTU-RGB+D数据集构建了一个合成遮挡数据集，其中选择了一些关节在空间和时间维度上进行遮挡（设为0）。 ==对于空间遮挡，我们使用完整骨架训练测试模型，然后用遮挡部分1、2、3、4、5的骨架进行评估==，这些部分分别表示左臂、右臂、双手、双腿和躯干。 对于时间遮挡，我们随机遮挡前100帧的一个块，因为许多序列的长度都小于100。遮挡数据集的一些示例在图1中展示。 在合成遮挡数据集上，我们测试了基线模型[11]、SR-TSL [5]、具有2个流和3个流的RA-GCN。实验结果显示在表3中，从中可以看出3s RA-GCN在大多数遮挡实验中明显优于其他模型，除了遮挡第2部分。特别是在时间遮挡实验中，3s RA-GCN相对于其他模型表现出越来越明显的优势。 因此，提出的方法可以减轻由于遮挡导致的性能下降。我们还发现，当一些重要的关节，例如右臂，被遮挡时，某些动作类别（例如握手）无法通过其他关节推断。在这种情况下，提出的方法将失败。</p><p><strong>总结：</strong></p><ul><li>通过在合成遮挡数据集上的实验证明，3s RA-GCN在大多数遮挡实验中表现出较大优势。</li><li>在时间遮挡实验中，3s RA-GCN相对于其他模型表现出越来越明显的优势。</li><li>方法可以减轻由于遮挡导致的性能下降，但当一些重要关节被遮挡时，模型可能失败。</li></ul><h2 id="4-CONCLUSION">4.CONCLUSION</h2><p><strong>CONCLUSION模块：</strong></p><p>在本文中，我们提出了一种名为RA-GCN的新模型，该模型较基线模型表现更好并提高了模型的鲁棒性。通过对NTU RGB+D数据集进行广泛实验证明了我们模型在遮挡场景中的有效性。</p><p><strong>总结：</strong></p><ul><li>RA-GCN相较于基线模型表现更好，提高了模型的鲁棒性。</li><li>通过在NTU RGB+D数据集上的实验证明了模型在遮挡场景中的有效性。</li><li>未来的工作方向包括将注意力模块引入我们的模型，以使每个流更加关注特定的判别性关节。</li></ul><blockquote><p>使用时间遮挡 和 空间遮挡的方式</p><p>利用关节学习激活模块 激活模型对于没有完全学习的特征进行学习</p></blockquote><h1>基于丰富激活图卷积网络的健壮骨架动作识别**</h1><h2 id="Abstract">Abstract</h2><p><strong>Abstract翻译和总结：</strong></p><p>当前的基于骨架的人体动作识别方法通常使用完整的骨架。然而，在实际场景中，捕捉到不完整或带噪音的骨架是不可避免的，尤其当一些关键关节被遮挡或受到干扰时，这可能显著降低当前方法的性能。</p><p>为了提高动作识别模型的鲁棒性，提出了一种多流图卷积网络（GCN）的新方法，用于探索分布在所有骨架关节上的足够判别性特征。这样，分布式冗余表示减少了动作模型对非标准骨架的敏感性。</p><p>具体而言，==通过一系列有序流程扩展了骨干GCN==，这些流程负责==从之前流程中激活较少的关节中学习判别性特征==。每个GCN流的骨架关节的激活程度通过类激活映射（CAM）进行测量，只有未激活的关节信息将传递到下一个流程，从而获取所有激活关节的丰富特征。因此，这种方法被称为富激活GCN（RA-GCN）。</p><p>与最先进方法相比，RA-GCN在标准NTU RGB+D 60和120数据集上取得了可比的性能。更重要的是，在合成的遮挡和抖动数据集上，由于受到遮挡和干扰的关节，利用提出的RA-GCN可以显著减轻性能下降。</p><ul><li><strong>问题陈述：</strong> 传统的基于完整骨架的人体动作识别方法在面对不完整或带噪音的骨架数据时性能下降。</li><li><strong>提出方法：</strong> 引入了一种名为RA-GCN的多流图卷积网络，旨在通过多流程学习所有骨架关节上的判别性特征，从而提高模型的鲁棒性。</li><li><strong>方法细节：</strong> RA-GCN通过测量每个GCN流中骨架关节的激活程度（CAM）来识别并关注少数先前未激活的关节，以获取全局激活关节的丰富特征。</li><li><strong>性能对比：</strong> RA-GCN在标准NTU RGB+D 60和120数据集上实现了与最先进方法（SOTA）可比较的性能。尤其是在合成的遮挡和抖动数据集上，==RA-GCN显著减轻了由于关节遮挡和干扰导致的性能下降==。</li><li><strong>未来工作：</strong> 计划将注意力模块引入模型，使每个流程更专注于某些判别性关节，以进一步提高性能。</li></ul><h2 id="I-INTRODUCTION">I. INTRODUCTION</h2><p><strong>引言：</strong></p><p>人体动作识别在近期的计算机视觉研究中取得了显著进展，并在许多潜在应用中发挥着越来越重要的作用，如视频监视、人机交互、视频检索等[1]，[2]，[3]。动作识别的主要目的是从可以被捕捉为RGB视频[4]，[5]，深度图[6]，红外图像[7]和3D骨架序列[8]，[9]，[10]的运动数据中对人类动作进行分类。</p><p>传统的动作识别主要由基于RGB视频的方法主导。这些方法通常将RGB视频视为图像帧的时间序列，并使用循环神经网络（RNN）等顺序模型从由卷积神经网络（CNN）提取的每帧的所有特征图中获取时间信息[4]。另一方面，许多研究人员利用3D CNN直接从视频中提取有用信息[5]，这与前一种方法的性能相当。然而，这两种类别都是从2D RGB帧中提取空间结构信息，而演员的空间配置是在3D空间中完全呈现的。因此，这些基于RGB的方法将由于固有弱点而失去一些关键信息。此外，RGB视频通常包含复杂的背景和光照变化，这在实践中导致了显著的性能下降。</p><p>与RGB视频相比，基于骨架的人体动作识别方法由于其在适应性、对光照变化的鲁棒性以及较低的计算成本方面的优势而显示出越来越大的前景。骨架数据由运动序列中多个骨架关节的2D/3D坐标组成，可以通过多模态传感器（如Kinect）收集，也可以通过2D图像的姿态估计方法直接估计[11]。目前的方法通常以两种方式处理骨架数据。一种方法是将这些关节连接成一个全局向量，然后通过使用基于RNN的方法[8]，[9]，[12]，[13]来对时间信息进行建模。另一种方法是将关节的时间序列视为2D图像，然后利用基于CNN的方法来识别动作[14]，[15]，[16]，[17]。然而，通过RNN和CNN方法有效地利用骨架关节之间的空间结构信息是困难的，尽管许多研究人员提出了额外的约束或专用网络结构来建模骨架关节的空间结构。最近，图神经网络（GNN）在许多领域取得了巨大的进展，它可以明确地将图形结构信息纳入神经网络的学习中[18]。Yan等人[10]首次提出了一种空时图卷积网络（ST-GCN）来捕捉嵌入在骨架序列的空间配置和时间动态中的模式，这在动作识别中取得了显著的进展。</p><p>然而，==当前基于骨架的动作识别模型仍然缺乏对在真实场景中捕获的嘈杂或不完整骨架数据的鲁棒性。==例如，主体可能会由于姿势变化而被自身遮挡，或者被场景中的其他对象遮挡。图1显示了由于场景中的其他人物导致的一些遮挡动作的示例。嘈杂的数据会严重恶化模型的性能。因此，如何提高基于骨架的动作识别模型的鲁棒性仍然是一项紧迫且具有挑战性的问题。</p><p>为了对抗各种降级，==集成学习==已被证明是一种有效的策略[19]，<strong>该策略基于相同或不同的预测分类器诱导出多个分类器，以便这些个体分类器的集成可以提高识别模型的鲁棒性</strong>。受集成学习成功的启发，本文提出了一种<strong>基于GCN的多流模型</strong>，旨在从骨架运动序列中学习丰富的判别特征，从而提高所提出模型的鲁棒性。==我们方法中每个流的目的是探索由先前流程激活的骨架关节中未激活的一组判别特征==。==学到的冗余但互补的所有骨架关节特征提供了处理嘈杂或不完整骨架数据的有效策略。==例如，当我们识别投掷动作时，在投掷过程中，最具判别力的关节位于两臂的瞬间，而身体摆动以及手的上下文子动作也可以用来推断投掷动作。</p><p>为了区分每个流程中最具信息性的关节，我们引入了一种名==为类激活映射（CAM）的成功技术到我们的模型中==，该技术最初旨在可视化负责视觉分类的最终CNN层中的激活热图。由先前GCN流程获取的激活图累积为一个掩码矩阵，以通知新的流程哪些关节已经激活。然后，新的流程将被强制从未激活的关节中探索新的判别特征。因此，所提出的方法被称为丰富激活的GCN（RA-GCN），其中丰富发现的互补特征将提高模型对非标准骨架的鲁棒性。据我们所知，==这是首次利用CAM技术通过扩展激活的骨架关节来增强模型鲁棒性，从而缓解基于骨架的动作识别中的遮挡和抖动问题。==</p><p>为了验证所提方法的优势，除了传统的骨架动作数据集NTU RGB+D 60 [21]和120 [22]数据集外，我们还==构建了四个合成遮挡数据集，==其中NTU 60和120数据集的关节在空间和时间维度上部分遮挡，以及==两个合成抖动数据集==，其中一些随机选择的关节受到高斯噪声的干扰。有关这些数据集的更多详细信息，请参见第IV-A节。我们对这些新数据集的实验表明，所提出的RA-GCN在骨架数据不完整或嘈杂的情况下显著减轻了性能下降。</p><p>该工作是[23]中早期和初步版本的延伸。与我们先前的工作相比，本文的修改和贡献总结如下： • 在先前的工作中，激活模块中的激活掩码是通过Softmax函数获得的，该函数仅激活每个流程的少数关节。==相比之下，我们提出使用归一化激活函数来扩大激活范围==，==因此相应的流程将获得更好且更可解释的激活图==。 • 与以前的工作相比，我们通过==在每个单独的网络流上添加许多额外的交叉熵正则化来扩展原始损失函数==，以便更有效地学习特征。 • 合成数据集通过==更多的退化算子进行了扩展，其中遮挡退化进一步分为四种类型，包括帧、部分、块和随机，以及两个合成的抖动数据集==。在不同退化条件下进行了更多实验，以验证所提方法的有效性和鲁棒性。</p><p>本文的其余部分组织如下：第II节描述了与我们工作相关的最近研究。第III节介绍了所提出的RA-GCN的若干关键组件。在第IV节中，对标准和非标准数据集的广泛实验结果进行了报告，本文的结论在第V节给出。</p><ul><li>人体动作识别在计算机视觉领域取得显著进展，应用广泛，涵盖视频监视、人机交互、视频检索等多个领域。</li><li>传统的基于RGB视频的动作识别方法存在局限，因为它们主要从2D RGB帧中提取空间结构信息，无法充分利用演员在3D空间中的配置。</li><li>基于骨架的动作识别方法因其适应性、对光照变化的鲁棒性和低计算成本而变得越来越受关注，骨架数据包括骨架关节的2D/3D坐标。</li><li>目前的骨架动作识别模型在真实场景中对嘈杂或不完整的骨架数据缺乏鲁棒性，例如由于姿势变化或其他对象遮挡引起的问题。</li><li>集成学习是对抗各种降级的有效策略，本文提出了一种基于GCN的多流模型，旨在学习骨架运动序列中的丰富判别特征，提高模型鲁棒性。</li><li>提出方法中每个流的目标是探索由先前流程激活的骨架关节中未激活的一组判别特征，通过学习冗余但互补的骨架关节特征处理嘈杂或不完整的骨架数据。</li><li>引入类激活映射（CAM）技术，通过扩展激活的骨架关节来增强模型对非标准骨架的鲁棒性，解决遮挡和抖动问题。</li><li>针对提出方法的优势进行验证，包括传统骨架动作数据集和新构建的合成数据集，实验证明在不完整或嘈杂的骨架数据情况下，提出方法显著减轻了性能下降。</li><li>本工作是先前研究的扩展，改进体现在使用归一化激活函数、扩展损失函数和更多退化算子的合成数据集，实验证明这些改进提高了方法的性能和鲁棒性。</li><li>文章的结构安排包括相关研究（第II节）、所提出方法的关键组件介绍（第III节）、广泛实验结果报告（第IV节）以及总结和结论（第V节）。</li></ul><h2 id="II-RELATED-WORK">II. RELATED WORK</h2><p>帮我只输出中文翻译的形式逐句翻译并根据输入内容分条总结一下 Skeleton-based models:模块</p><h3 id="a-Skeleton-based-models">a) Skeleton-based models:</h3><ul><li><p>为了找到更有效地表示人体动作动态过程的方法，Johansson [24] 使用3D骨架序列进行动作识别，显著降低了计算成本并取得了良好的性能提升。</p><p>随着深度学习技术的迅猛发展，基于骨架的动作识别方法引起了越来越多的关注。研究人员提出了各种模型以提高动作识别的性能，主要分为三大类别。</p><ul><li>第一类别使用卷积网络构建模型。例如，Li等人[16]提出了基于CNN的共现特征学习框架，逐渐聚合各个层次的上下文信息。Kim等人[15]构建了一个时序卷积网络，明确学习用于3D人体动作识别的可解释时空表示。</li><li>第二类别中，研究人员将一个帧中的所有关节连接成一个单一的向量，然后使用循环模型（如长短时记忆网络LSTM）来探索时间动态。Du等人[25]设计了一个分层双向RNN来捕捉不同人体部位之间的丰富依赖关系。[9]中的研究使用了一种视图自适应的LSTM，使网络本身适应于最适合的观察视点。此外，Song等人[26]首次将注意力模块引入基于骨架的动作识别。</li><li>CNN和RNN方法仍然受限于提取骨架关节之间的空间结构信息，其中不同身体部位的关节连接成骨架图。与此相反，第三类别中可以自然地使用基于图的方法来处理骨架图，成功捕获各种动作的最具信息性的特征。Si等人[13]使用图神经网络（GNN）来建模五个身体部位之间的关系。Yan等人[10]最初将图卷积网络（GCN）引入基于骨架的动作识别，并产生一个名为ST-GCN的基线供未来研究使用。基于ST-GCN，许多研究在基于骨架的动作识别方面取得了持续的改进[27]，[28]，[29]。</li></ul></li></ul><h3 id="b-Occlusion-in-human-action-recognition">b) Occlusion in human action recognition:</h3><p><strong>Occlusion in human action recognition:</strong></p><ul><li>遮挡是人体动作识别中的一个突出挑战。如果骨架关节部分遮挡，上述提到的方法将面临相当大的性能下降。</li><li>为了解决这个问题，Wang等人[30]尝试从全局SVM分类器中推断遮挡图，而Weinland等人[31]提出了一种基于3D梯度直方图（HOG）描述符的局部分区和分层分类方法，以提供对遮挡和视角变化的鲁棒性。然而，在解决骨架关节中的嘈杂或不完整数据问题方面，目前研究较少。</li><li>本文提出一种探索所有关节丰富特征的方法，以减轻数据降级的影响。</li></ul><h3 id="c-Salient-Regions-Exploration">c) Salient Regions Exploration:</h3><p><strong>Salient Regions Exploration:</strong></p><ul><li>与我们的动机类似，一些先前的研究提出<strong>探索显著区域或消除它们</strong>，<strong>以利用在指代表达基础设施[32]，[33]或弱监督检测任务[34]中的互补信息</strong>。研究[32]提出了一种简单而有效的网络，以阻止注意力传播到意外的背景区域，以提高目标注意力的质量。Liu等人[33]设计了一种新颖的引导擦除方法，以对齐跨越视觉和文本模态的各种信息。此外，Li等人[34]提供了一个框架，根据在线注意力图动态擦除关注区域。==然而，先前的显著区域探索方法主要集中在图像中的对象检测或定位任务上，而在这项工作中，我们利用了互补的关注骨架关节，以减轻遮挡或抖动问题，这在先前的工作中尚未考虑。==</li></ul><h2 id="III-MODEL-ARCHITECTURE">III. MODEL ARCHITECTURE</h2><p>为了提升动作识别模型的鲁棒性，我们提出了RA-GCN，==旨在从所有骨架关节中提取足够的判别特征。==该模型构建了一个多流网络，==每个流专门从一组激活的关节中提取特征。==   通过这种设计，即使第一个流激活的关节被遮挡，模型仍能从其他流中获取判别性信息。RA-GCN的概览见图2。在输入数据方面，我们假设V为一个骨架中的关节数，T为一个序列中的帧数，输入数据x的大小为Cin×T×V，其中Cin = 3表示每个关节的3D坐标。需要注意的是，在多智能体动作中，不同骨架被视为不同的样本。</p><p>我们提出的方法包括三个主要步骤。首先，在预处理模块中，为了提取更多信息，输入数据x被转换为x，然后传递到所有GCN流程。其次，对于每个流，x中的骨架关节将通过与一个掩码矩阵的逐元素乘积进行过滤，==该矩阵记录当前未激活的关节==。==这些关节通过累积由先前流程的激活模块计算的激活图进行区分。？？？？？？？？？？==在这里，每个流的掩码矩阵被初始化为与x相同形状的全1矩阵。==在掩码操作之后，每个流的输入数据仅包含前面流程未激活的关节，====并通过基线网络传递，以基于不完整的骨架关节获得特征表示。==</p><p>最后，在输出模块中，所有流的特征被串联，并使用带有Softmax激活函数的全连接层获得输入x的最终类别。这三个步骤将在下一节详细讨论。</p><ul><li><strong>RA-GCN提出的动机与设计：</strong><ol><li><strong>动机：</strong> 为了提高动作识别模型的鲁棒性。</li><li><strong>设计：</strong> RA-GCN是一个多流网络，每个流负责从一组激活的关节中提取特征，确保即使某些关节被遮挡，模型仍能获取判别性信息。</li></ol></li><li><strong>RA-GCN的输入数据处理：</strong><ol><li><strong>数据描述：</strong> 输入数据x的大小为Cin×T×V，其中Cin = 3表示每个关节的3D坐标，在多智能体动作中不同骨架被视为不同样本。</li><li><strong>预处理：</strong> 对输入数据x进行预处理，转换为x，以提取更多信息。</li></ol></li><li><strong>RA-GCN的处理步骤：</strong><ol><li><strong>第一步：</strong> 在预处理模块中，通过将输入数据x转换为x，提取更多信息。</li><li><strong>第二步：</strong> 对于每个流，通过与掩码矩阵的逐元素乘积，过滤x中的骨架关节，记录当前未激活的关节。这确保每个流的输入数据仅包含前面流程未激活的关节。</li><li><strong>第三步：</strong> 在输出模块中，将所有流的特征串联，使用Softmax激活函数的全连接层获得输入x的最终类别。</li></ol></li></ul><p>总体而言，RA-GCN通过多流网络的设计，充分利用所有骨架关节提取判别性特征，从而增强了动作识别模型的鲁棒性。</p><h3 id="A-Data-Preprocessing">A. Data Preprocessing</h3><ul><li><p>A. 数据预处理：</p><ol><li><strong>相似动作问题：</strong> 通常，一些动作，如脱鞋和穿鞋，在空间特征上非常相似。为了解决这个问题，传统的基于RGB的方法引入了一种称为光流（Optical Flow）的复杂技术，用于精确描绘运动特征。</li><li><strong>相对坐标和运动特征：</strong> 文献[28]指出，==关节的相对坐标通常比绝对坐标更具信息量。==受此启发，我们的模型==应用几何特征（如相对坐标）和运动特征（如时间位移）以增加动作识别的判别信息==。因此，在将输入数据分发到所有GCN流之前，需要对输入数据进行预处理。</li><li><strong>相对坐标的计算：</strong> 相对坐标可以看作是每一帧中<strong>所有关节与中心关节（中间脊柱）之间的差异x˙r，如图3(a)所示。通过这种方式，所有关节都被转换为相对坐标，更加鲁棒地适应位置变化。</strong></li><li><strong>运动特征的提取：</strong> 为了提取更多信息，我们通过计算˙xt（xt+1 − xt）得到运动特征，其中xt表示第t帧的特征图，如图3(b)所示。然后，通过串联x、˙xr和˙xt，得到x。</li></ol></li><li><p>A. 数据预处理模块总结：</p><ol><li><strong>相似动作处理：</strong> 针对一些在空间特征上极为相似的动作，采用了光流技术，用于准确描绘运动特征，以解决这一问题。</li><li><strong>相对坐标和运动特征应用：</strong> 受到相对坐标相较于绝对坐标更具信息量的启发，引入了几何特征（相对坐标）和运动特征（时间位移）来增加动作识别的判别性信息。</li><li><strong>相对坐标计算：</strong> 将每个关节与中心关节之间的差异作为相对坐标，提高了模型对位置变化的鲁棒性。</li><li><strong>运动特征提取：</strong> 通过计算相邻帧的特征差异，提取更多的运动特征，从而增强了对动作的判别能力。</li></ol></li></ul><h3 id="B-Richly-Activated-GCN">B. Richly Activated GCN</h3><h4 id="1-Baseline-Model">1) Baseline Model:</h4><ul><li><ol><li>基线模型：</li></ol><ol><li><strong>ST-GCN基线：</strong> 我们方法的基线是ST-GCN [10]，由十个图卷积层组成。Yan等人[10]将空间图卷积操作表示为： fout(<em>v<strong>t</strong>i</em>)=∑<em>v<strong>t</strong>j</em>∈<em>B</em>(<em>v<strong>t</strong>i</em>)<em>Z<strong>t</strong>i</em>(<em>v<strong>t</strong>j</em>)1fin(<em>v<strong>t</strong>j</em>)⋅<em>w</em>(<em>l<strong>t</strong>i</em>(<em>v<strong>t</strong>j</em>)) 其中fin和fout分别是输入和输出特征图，<em>v<strong>t</strong>i</em>表示第t帧中的第i个关节，也可以看作在这个过程中的根关节，)<em>B</em>(<em>v<strong>t</strong>i</em>)是<em>v<strong>t</strong>i</em>的邻居集，标准化项<em>Z<strong>t</strong>i</em>用于平衡不同邻居的贡献，<em>w</em>(⋅)是由若干1×1 Conv层实现的权重函数，<em>l<strong>t</strong>i</em>(⋅)表示标签函数。[10]中有三个标签函数，但我们的方法中只选择了基于距离的标签函数，它定义为<em>l<strong>t</strong>i</em>(<em>v<strong>t</strong>j</em>)=<em>d</em>(<em>v<strong>t</strong>i</em>,<em>v<strong>t</strong>j</em>)。这意味着邻居集<em>B</em>(<em>v<strong>t</strong>i</em>)根据<em>v<strong>t</strong>j</em>与根关节<em>v<strong>t</strong>i</em>之间的图距离被划分为若干子集。例如，如果关节<em>v<strong>t</strong>j</em>直接与根关节<em>v<strong>t</strong>i</em>相连，则<em>d</em>(<em>v<strong>t</strong>i</em>,<em>v<strong>t</strong>j</em>)=1。具有相同距离的关节将形成一个子集，并共享一个可学习的权重函数<em>w</em>(⋅)。</li><li><strong>空间图卷积的实现：</strong> 通过邻接矩阵A实现空间图卷积，将Eq.1转化为： fout=∑<em>d</em>=0<em>D<strong>W</strong>d</em>⋅fin(Λ−1/2<em>d<strong>A</strong>d</em>Λ−1/2<em>d</em>⊗<em>M**d</em>) 其中D是预定义的最大距离，Ad是距离d的邻接矩阵，Λ<em>ii**d</em>=∑<em>k<strong>A</strong>ik**d</em>+<em>α</em>是归一化对角矩阵，<em>A<strong>ik</strong>d</em>表示Ad的第i行第k列的元素，<em>α</em>设置为一个小值，如10−410−4，以避免Λd中的空行。对于每个邻接矩阵，我们将其与一个可学习矩阵Md相伴随，该矩阵表示一个骨架中所有边的重要性。</li><li><strong>时空卷积块：</strong> 空间图卷积块后使用1×L卷积层提取特征图fout的时序信息，其中L是时间窗口大小。空间和时序卷积块之后分别跟有BatchNorm层和ReLU层，并且整个ST-GCN层包含一个残差连接。此外，每个空间卷积块和时序卷积块之间都添加了一个丢弃层，丢弃概率为0.5，以避免过拟合。ST-GCN层的结构如图4所示。</li></ol></li><li><ol><li>基线模型总结：</li></ol><ol><li><strong>ST-GCN基线结构：</strong> 采用ST-GCN [10]作为基线模型，由十个图卷积层组成。空间图卷积操作通过权重函数和标签函数处理每个关节，其中使用基于距离的标签函数以及邻接矩阵来划分邻居关节。</li><li><strong>空间图卷积实现：</strong> 利用邻接矩阵A实现空间图卷积，通过一系列矩阵操作和权重调整，考虑了骨架中不同关节之间的图距离和边的重要性。</li><li><strong>时空卷积块：</strong> 使用1×L卷积层提取时序信息，采用残差连接，BatchNorm层和ReLU层用于增强模型的表达能力，同时在空间和时序卷积块之间引入了丢弃层以防止过拟合。</li></ol></li></ul><h4 id="2-Activation-Module">2) Activation Module:</h4><ul><li><strong>2) 激活模块：</strong><ol><li><strong>RA-GCN中的激活模块：</strong> RA-GCN中的==激活模块用于区分每个流的激活关节==，==然后通过积累前序流的激活图来引导新流的学习过程==。该过程主要通过将CAM技术[20]扩展到GCN领域来实现。CAM技术的原始目的是在CNN中定位特定类别的图像区域，==其中scorec被定义为类别c的所有像素的分数==，每个像素的分数为<em>scorec</em>(<em>x</em>,<em>y</em>)=∑<em>k<strong>w</strong>c</em>,<em>k</em>⋅<em>f**k</em>(<em>x</em>,<em>y</em>)。</li><li><strong>适用于骨架数据的CAM技术：</strong> 在这里，将特征图fk(·, ·)中的坐标(x, y)替换为帧数t和骨架序列中的关节号i，从而能够定位激活的关节。这里，类别c被选择为真实类别。使用scores表示所有关节对于真实类别和第s个流的分数图。为确定由相应流激活的关节，使用预定义的阈值δ，并通过以下计算得到maps_c的激活图：<em>ma<strong>p</strong>s**c</em>=<em>ε</em>(max(<em>score<strong>s</strong>c</em>)<em>score<strong>s</strong>c</em>−<em>δ</em>) 其中ε(·)是==Heaviside阶跃函数==，max(·)表示最大值函数。然后，第s个流的mask矩阵表示为：<em>ma<strong>s</strong>k**s</em>=(⨂<em>i</em>=1<em>s</em>−1<em>ma<strong>s</strong>k**i</em>)⊗(1−<em>ma<strong>p</strong>s**s</em>−1) 这里的⨂⨂表示第s个流之前的所有mask矩阵的逐元素乘积。特别地，第一个流的mask矩阵是全1矩阵。最终，第s个流的输入将由以下方式得到： <em>x**s</em>=<em>x</em>′⊗<em>ma<strong>s</strong>k**s</em> 其中′<em>x</em>′是预处理后的骨架表示。==方程5和方程6说明第s个流的输入仅包含前序流未激活的关节，从而RA-GCN将充分探索所有关节的判别特征。==</li></ol></li><li><strong>激活模块总结：</strong><ol><li><strong>CAM技术的应用：</strong> 将CAM技术应用于GCN，以定位骨架序列中激活的关节，区分不同类别的关键信息。</li><li><strong>阈值与激活图：</strong> 使用预定义阈值δ来确定激活的关节，并生成相应的激活图maps_c。</li><li><strong>Mask矩阵：</strong> 利用前序流的激活图生成当前流的mask矩阵，确保当前流的输入仅包含前序流未激活的关节。</li><li><strong>RA-GCN特征探索：</strong> RA-GCN通过这一流程充分探索所有关节，从而获得判别性特征。</li></ol></li></ul><h4 id="3-Loss-Function">3) Loss Function:</h4><ul><li><strong>3) 损失函数模块：</strong><ol><li><strong>在我们先前的模型[23]中，损失函数仅监督整个网络，而在本文中，为每个个体网络流扩展了许多额外的损失，以便更有效地学习特征。</strong></li><li><strong>设ˆys ∈ RC为第s个流的输出，ˆy ∈ RC为整个模型的输出，y ∈ RC为地面真实值，其中C是类别数。</strong></li><li><strong>提出的RA-GCN的损失函数为*L*=−*y*log*y*^−∑*s*=1*S**y*log*y*^*s*，其中S是流的数量。</strong></li></ol></li><li><strong>损失函数模块总结：</strong><ol><li><strong>模型扩展：</strong> 与先前的模型相比，本文扩展了损失函数，为每个网络流添加了额外的损失，以提高特征学习效果。</li><li><strong>符号说明：</strong> ˆ<em>ys</em>表示第s个流的输出，^<em>y</em>^表示整个模型的输出，y表示地面真实值，C是类别数。</li><li><strong>损失函数定义：</strong> RA-GCN的损失函数包括总网络损失和每个流的个体损失，由<em>L</em>=−<em>y</em>log<em>y</em>^−∑<em>s</em>=1<em>S**y</em>log<em>y</em>^<em>s</em>表示，其中S是流的数量。</li></ol></li></ul>]]></content>
-    
-    
-    <summary type="html">不完整骨架数据的的rich激活图卷积网络研究</summary>
     
     
     
